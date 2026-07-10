@@ -1,0 +1,1131 @@
+﻿Número de Control,Semestre,Carrera,Edad,Sexo,Personas Bajo su Cuidado,Trabaja,Debe Materias,Cantidad de Materias Adeudadas,Foráneo,Salario Mensual ($),Intención de Baja,Promedio de Calificaciones,Renta Vivienda,Trabaja Más de 20 Horas/Semana,Grupo_Riesgo
+TVH00001,1,Ingeniería Industrial,17,Femenino,No,No,No,,No,,,83.3,No,,Sin Riesgo
+TVH00002,3,Ingeniería Industrial,19,Femenino,No,No,No,,Sí,,,86.0,Sí,,Sin Riesgo
+TVH00003,1,Ingeniería Industrial,17,Masculino,No,No,No,,Sí,,,78.5,Sí,,Sin Riesgo
+TVH00004,3,Ingeniería en Sistemas,19,Femenino,No,No,Sí,1.0,No,,No,64.9,No,,Riesgo Medio
+TVH00005,2,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,84.8,Sí,,Sin Riesgo
+TVH00006,4,Ingeniería Civil,19,Masculino,No,Sí,No,,No,1806.0,,69.0,No,Sí,Sin Riesgo
+TVH00007,3,Ingeniería Industrial,18,Femenino,No,Sí,No,,Sí,4963.0,,80.7,Sí,Sí,Sin Riesgo
+TVH00008,5,Ingeniería Civil,19,Masculino,No,No,No,,Sí,,,72.5,Sí,,Sin Riesgo
+TVH00009,2,Ingeniería Petrolera,17,Femenino,No,No,No,,Sí,,,91.4,Sí,,Sin Riesgo
+TVH00010,1,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,No,,No,56.9,No,,Riesgo Medio
+TVH00011,3,Ingeniería Química,19,Masculino,No,No,No,,No,,,83.8,No,,Sin Riesgo
+TVH00012,3,Ingeniería Industrial,19,Femenino,Sí,No,No,,No,,,87.0,No,,Sin Riesgo
+TVH00013,6,Ingeniería Química,19,Femenino,No,No,No,,No,,,75.7,Sí,,Sin Riesgo
+TVH00014,1,Ingeniería Petrolera,28,Masculino,Sí,No,No,,No,,,74.1,No,,Sin Riesgo
+TVH00015,3,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,78.2,Sí,,Sin Riesgo
+TVH00016,3,Ingeniería Química,18,Femenino,No,Sí,Sí,1.0,No,9713.0,No,73.9,No,No,Riesgo Medio
+TVH00017,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,74.3,No,,Sin Riesgo
+TVH00018,1,Ingeniería Química,17,Masculino,No,Sí,Sí,1.0,No,6078.0,No,60.7,No,Sí,Riesgo Medio
+TVH00019,6,Ingeniería Industrial,19,Masculino,No,No,No,,No,,,81.6,Sí,,Sin Riesgo
+TVH00020,5,Ingeniería Química,19,Masculino,No,Sí,Sí,2.0,No,5149.0,No,60.9,No,Sí,Riesgo Medio
+TVH00021,5,Ingeniería Civil,20,Femenino,No,No,Sí,1.0,No,,No,61.2,Sí,,Riesgo Medio
+TVH00022,4,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,77.8,No,,Sin Riesgo
+TVH00023,4,Ingeniería Química,19,Femenino,No,No,No,,No,,,76.0,No,,Sin Riesgo
+TVH00024,1,Ingeniería Petrolera,17,Femenino,No,No,No,,Sí,,,79.6,Sí,,Sin Riesgo
+TVH00025,1,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,69.2,Sí,,Sin Riesgo
+TVH00026,1,Ingeniería Civil,17,Masculino,No,No,No,,Sí,,,92.6,Sí,,Sin Riesgo
+TVH00027,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,77.4,Sí,,Sin Riesgo
+TVH00028,6,Ingeniería en Sistemas,19,Femenino,Sí,No,No,,No,,,76.8,No,,Sin Riesgo
+TVH00029,3,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,No,,No,56.4,No,,Riesgo Medio
+TVH00030,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,83.8,No,,Sin Riesgo
+TVH00031,4,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,74.7,Sí,,Sin Riesgo
+TVH00032,7,Ingeniería Petrolera,20,Femenino,No,No,Sí,2.0,Sí,,Sí,51.0,No,,Riesgo Alto
+TVH00033,3,Ingeniería Civil,19,Masculino,No,No,No,,No,,,84.4,No,,Sin Riesgo
+TVH00034,1,Ingeniería Petrolera,17,Masculino,No,No,No,,Sí,,,81.7,No,,Sin Riesgo
+TVH00035,2,Ingeniería Industrial,17,Masculino,No,Sí,Sí,1.0,No,3854.0,Sí,55.6,No,Sí,Riesgo Alto
+TVH00036,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,88.7,No,,Sin Riesgo
+TVH00037,5,Ingeniería Civil,20,Masculino,No,No,No,,No,,,83.2,Sí,,Sin Riesgo
+TVH00038,2,Ingeniería en Sistemas,17,Femenino,No,No,Sí,3.0,No,,No,63.9,No,,Riesgo Medio
+TVH00039,7,Ingeniería Civil,21,Femenino,No,No,No,,No,,,76.7,Sí,,Sin Riesgo
+TVH00040,3,Ingeniería en Sistemas,27,Femenino,No,No,No,,No,,,75.4,No,,Sin Riesgo
+TVH00041,6,Ingeniería Química,20,Masculino,No,No,No,,No,,,80.7,No,,Sin Riesgo
+TVH00042,2,Ingeniería Civil,18,Femenino,No,No,No,,No,,,75.8,Sí,,Sin Riesgo
+TVH00043,3,Ingeniería Petrolera,19,Masculino,No,No,Sí,1.0,No,,No,60.8,No,,Riesgo Medio
+TVH00044,8,Ingeniería Civil,20,Femenino,No,Sí,No,,No,3168.0,,82.3,No,Sí,Sin Riesgo
+TVH00045,2,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,86.9,No,,Sin Riesgo
+TVH00046,7,Ingeniería Industrial,21,Masculino,No,Sí,No,,No,1373.0,,78.2,Sí,No,Sin Riesgo
+TVH00047,5,Ingeniería Civil,21,Masculino,No,Sí,Sí,1.0,No,1651.0,No,60.9,No,No,Riesgo Medio
+TVH00048,6,Ingeniería Industrial,21,Masculino,No,No,No,,Sí,,,82.4,Sí,,Sin Riesgo
+TVH00049,2,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,82.1,No,,Sin Riesgo
+TVH00050,1,Ingeniería Civil,19,Femenino,No,Sí,Sí,2.0,No,2858.0,No,54.2,No,Sí,Riesgo Medio
+TVH00051,4,Ingeniería Civil,19,Femenino,No,No,Sí,1.0,Sí,,No,49.9,No,,Riesgo Medio
+TVH00052,2,Ingeniería Química,18,Femenino,No,No,No,,No,,,87.3,No,,Sin Riesgo
+TVH00053,4,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,79.4,No,,Sin Riesgo
+TVH00054,5,Ingeniería en Sistemas,19,Femenino,No,No,Sí,3.0,No,,No,57.5,Sí,,Riesgo Medio
+TVH00055,6,Ingeniería Química,20,Masculino,No,Sí,Sí,1.0,No,3846.0,No,65.0,No,No,Riesgo Medio
+TVH00056,3,Ingeniería Civil,18,Masculino,No,No,Sí,1.0,Sí,,No,67.8,No,,Riesgo Medio
+TVH00057,3,Ingeniería Civil,19,Femenino,No,No,No,,Sí,,,88.5,No,,Sin Riesgo
+TVH00058,1,Ingeniería Química,17,Femenino,No,No,Sí,2.0,No,,Sí,61.0,No,,Riesgo Alto
+TVH00059,3,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,No,,Sí,52.2,No,,Riesgo Alto
+TVH00060,5,Ingeniería Química,19,Masculino,No,No,No,,No,,,89.0,Sí,,Sin Riesgo
+TVH00061,1,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,76.1,No,,Sin Riesgo
+TVH00062,3,Ingeniería Industrial,19,Femenino,No,No,Sí,2.0,No,,No,62.8,Sí,,Riesgo Medio
+TVH00063,3,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,78.7,No,,Sin Riesgo
+TVH00064,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,85.7,No,,Sin Riesgo
+TVH00065,1,Ingeniería Civil,18,Femenino,No,No,Sí,2.0,Sí,,No,78.0,Sí,,Riesgo Medio
+TVH00066,4,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,92.0,No,,Sin Riesgo
+TVH00067,3,Ingeniería Petrolera,18,Masculino,No,No,Sí,1.0,Sí,,No,65.5,No,,Riesgo Medio
+TVH00068,6,Ingeniería Química,21,Femenino,No,Sí,No,,No,1388.0,,77.4,No,Sí,Sin Riesgo
+TVH00069,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,85.6,Sí,,Sin Riesgo
+TVH00070,3,Ingeniería Petrolera,20,Masculino,No,Sí,No,,Sí,3226.0,,78.4,Sí,No,Sin Riesgo
+TVH00071,2,Ingeniería Industrial,17,Femenino,Sí,No,No,,No,,,79.4,No,,Sin Riesgo
+TVH00072,4,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,90.9,Sí,,Sin Riesgo
+TVH00073,2,Ingeniería Civil,17,Femenino,No,No,Sí,3.0,No,,Sí,59.6,No,,Riesgo Alto
+TVH00074,6,Ingeniería Industrial,20,Femenino,No,No,No,,No,,,89.2,Sí,,Sin Riesgo
+TVH00075,1,Ingeniería Química,18,Femenino,No,No,No,,No,,,83.1,No,,Sin Riesgo
+TVH00076,5,Ingeniería Civil,19,Femenino,No,Sí,No,,No,3752.0,,78.4,No,No,Sin Riesgo
+TVH00077,2,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,81.2,No,,Sin Riesgo
+TVH00078,2,Ingeniería Civil,17,Masculino,No,No,Sí,1.0,No,,No,63.3,No,,Riesgo Medio
+TVH00079,5,Ingeniería en Sistemas,19,Masculino,No,No,No,,Sí,,,83.0,Sí,,Sin Riesgo
+TVH00080,4,Ingeniería en Sistemas,20,Femenino,No,No,Sí,2.0,No,,Sí,55.7,Sí,,Riesgo Alto
+TVH00081,3,Ingeniería Petrolera,19,Masculino,No,Sí,Sí,1.0,No,2940.0,No,66.2,No,No,Riesgo Medio
+TVH00082,7,Ingeniería Civil,22,Masculino,No,No,No,,No,,,90.8,No,,Sin Riesgo
+TVH00083,1,Ingeniería Industrial,18,Masculino,No,No,No,,Sí,,,87.7,No,,Sin Riesgo
+TVH00084,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,82.9,Sí,,Sin Riesgo
+TVH00085,7,Ingeniería en Sistemas,20,Femenino,No,Sí,Sí,1.0,No,9798.0,No,69.4,Sí,Sí,Riesgo Medio
+TVH00086,1,Ingeniería Industrial,18,Masculino,Sí,No,No,,No,,,75.6,Sí,,Sin Riesgo
+TVH00087,6,Ingeniería Química,19,Femenino,No,No,No,,No,,,77.8,No,,Sin Riesgo
+TVH00088,9,Ingeniería Petrolera,28,Femenino,No,No,Sí,1.0,Sí,,No,55.4,Sí,,Riesgo Medio
+TVH00089,2,Ingeniería en Sistemas,17,Femenino,No,Sí,No,,No,1709.0,,73.4,No,No,Sin Riesgo
+TVH00090,2,Ingeniería Industrial,18,Masculino,No,No,No,,Sí,,,77.0,Sí,,Sin Riesgo
+TVH00091,7,Ingeniería Civil,20,Masculino,No,Sí,No,,No,1884.0,,79.2,No,Sí,Sin Riesgo
+TVH00092,3,Ingeniería Química,19,Femenino,No,No,No,,No,,,81.2,Sí,,Sin Riesgo
+TVH00093,1,Ingeniería Industrial,28,Femenino,No,No,No,,No,,,79.5,Sí,,Sin Riesgo
+TVH00094,1,Ingeniería en Sistemas,17,Femenino,No,Sí,Sí,1.0,No,1853.0,Sí,66.4,No,Sí,Riesgo Alto
+TVH00095,3,Ingeniería Petrolera,19,Masculino,No,No,Sí,1.0,No,,No,60.5,Sí,,Riesgo Medio
+TVH00096,5,Ingeniería en Sistemas,21,Femenino,No,Sí,Sí,3.0,No,3975.0,No,69.4,Sí,No,Riesgo Medio
+TVH00097,3,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,No,,Sí,73.1,Sí,,Riesgo Alto
+TVH00098,2,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,78.9,No,,Sin Riesgo
+TVH00099,2,Ingeniería Civil,17,Femenino,No,No,Sí,1.0,No,,Sí,75.2,No,,Riesgo Alto
+TVH00100,6,Ingeniería Química,19,Masculino,Sí,No,Sí,3.0,No,,Sí,60.5,No,,Riesgo Alto
+TVH00101,2,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,81.5,No,,Sin Riesgo
+TVH00102,5,Ingeniería Industrial,19,Masculino,No,Sí,No,,No,3549.0,,83.7,No,Sí,Sin Riesgo
+TVH00103,7,Ingeniería Civil,21,Masculino,No,No,No,,No,,,72.3,No,,Sin Riesgo
+TVH00104,1,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,74.6,No,,Sin Riesgo
+TVH00105,4,Ingeniería Civil,18,Femenino,No,Sí,Sí,2.0,Sí,5823.0,No,61.1,Sí,No,Riesgo Medio
+TVH00106,6,Ingeniería Petrolera,26,Femenino,No,Sí,No,,No,2381.0,,78.5,Sí,Sí,Sin Riesgo
+TVH00107,5,Ingeniería Industrial,19,Masculino,No,Sí,Sí,3.0,Sí,4048.0,No,49.8,No,No,Riesgo Medio
+TVH00108,4,Ingeniería Civil,18,Masculino,No,No,No,,No,,,85.4,Sí,,Sin Riesgo
+TVH00109,6,Ingeniería Industrial,20,Femenino,No,Sí,No,,No,1494.0,,75.9,No,Sí,Sin Riesgo
+TVH00110,7,Ingeniería Química,20,Femenino,No,No,No,,No,,,83.7,No,,Sin Riesgo
+TVH00111,3,Ingeniería Industrial,19,Femenino,No,No,No,,Sí,,,78.9,Sí,,Sin Riesgo
+TVH00112,1,Ingeniería Química,17,Masculino,No,No,No,,No,,,89.5,No,,Sin Riesgo
+TVH00113,2,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,77.0,Sí,,Sin Riesgo
+TVH00114,2,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,76.7,No,,Sin Riesgo
+TVH00115,3,Ingeniería en Sistemas,20,Masculino,No,No,Sí,1.0,No,,No,48.4,Sí,,Riesgo Medio
+TVH00116,1,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,81.9,Sí,,Sin Riesgo
+TVH00117,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,86.6,Sí,,Sin Riesgo
+TVH00118,6,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,91.0,Sí,,Sin Riesgo
+TVH00119,2,Ingeniería Industrial,18,Masculino,No,No,No,,Sí,,,81.8,No,,Sin Riesgo
+TVH00120,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,Sí,,,84.9,Sí,,Sin Riesgo
+TVH00121,5,Ingeniería Petrolera,19,Masculino,No,No,Sí,1.0,No,,No,56.1,No,,Riesgo Medio
+TVH00122,7,Ingeniería Civil,21,Masculino,No,No,Sí,3.0,Sí,,No,66.8,No,,Riesgo Medio
+TVH00123,7,Ingeniería Petrolera,21,Masculino,No,No,Sí,1.0,Sí,,No,66.9,Sí,,Riesgo Medio
+TVH00124,2,Ingeniería Civil,18,Masculino,No,No,No,,No,,,83.5,No,,Sin Riesgo
+TVH00125,4,Ingeniería en Sistemas,20,Masculino,No,Sí,No,,No,5639.0,,72.8,No,Sí,Sin Riesgo
+TVH00126,3,Ingeniería Petrolera,27,Masculino,No,Sí,No,,No,5254.0,,72.2,No,Sí,Sin Riesgo
+TVH00127,6,Ingeniería Química,20,Masculino,No,No,No,,Sí,,,86.8,Sí,,Sin Riesgo
+TVH00128,7,Ingeniería Petrolera,21,Femenino,No,No,No,,No,,,71.3,No,,Sin Riesgo
+TVH00129,6,Ingeniería en Sistemas,19,Femenino,Sí,No,No,,No,,,89.1,No,,Sin Riesgo
+TVH00130,3,Ingeniería Civil,20,Masculino,No,No,No,,Sí,,,72.5,Sí,,Sin Riesgo
+TVH00131,2,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,86.2,No,,Sin Riesgo
+TVH00132,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,69.7,No,,Sin Riesgo
+TVH00133,3,Ingeniería Petrolera,18,Masculino,No,No,No,,Sí,,,83.9,Sí,,Sin Riesgo
+TVH00134,2,Ingeniería en Sistemas,18,Masculino,No,No,No,,Sí,,,88.9,No,,Sin Riesgo
+TVH00135,8,Ingeniería Petrolera,22,Masculino,No,Sí,No,,Sí,3979.0,,84.7,No,No,Sin Riesgo
+TVH00136,4,Ingeniería Civil,18,Femenino,Sí,Sí,No,,No,2517.0,,87.9,No,No,Sin Riesgo
+TVH00137,1,Ingeniería Industrial,18,Masculino,No,Sí,No,,No,4881.0,,90.1,No,No,Sin Riesgo
+TVH00138,3,Ingeniería Civil,18,Femenino,No,No,Sí,2.0,No,,No,59.5,No,,Riesgo Medio
+TVH00139,5,Ingeniería Civil,19,Femenino,No,Sí,No,,Sí,8175.0,,69.8,No,Sí,Sin Riesgo
+TVH00140,2,Ingeniería Civil,17,Femenino,No,Sí,No,,No,3452.0,,77.4,No,Sí,Sin Riesgo
+TVH00141,6,Ingeniería Petrolera,19,Masculino,No,No,No,,Sí,,,72.6,No,,Sin Riesgo
+TVH00142,2,Ingeniería en Sistemas,18,Masculino,No,No,Sí,2.0,No,,No,64.7,No,,Riesgo Medio
+TVH00143,1,Ingeniería Petrolera,17,Masculino,Sí,No,No,,No,,,72.9,No,,Sin Riesgo
+TVH00144,7,Ingeniería en Sistemas,20,Masculino,No,Sí,Sí,3.0,No,2532.0,No,57.2,No,No,Riesgo Medio
+TVH00145,4,Ingeniería Industrial,18,Masculino,No,Sí,No,,Sí,4804.0,,72.4,No,No,Sin Riesgo
+TVH00146,2,Ingeniería Química,18,Masculino,No,No,No,,No,,,80.2,No,,Sin Riesgo
+TVH00147,9,Ingeniería en Sistemas,21,Femenino,No,No,No,,No,,,81.8,No,,Sin Riesgo
+TVH00148,6,Ingeniería Civil,19,Masculino,No,No,No,,No,,,83.7,No,,Sin Riesgo
+TVH00149,3,Ingeniería en Sistemas,18,Masculino,No,Sí,Sí,3.0,No,6288.0,Sí,72.9,No,Sí,Riesgo Alto
+TVH00150,5,Ingeniería Química,19,Femenino,No,Sí,Sí,2.0,No,6844.0,No,63.5,No,No,Riesgo Medio
+TVH00151,6,Ingeniería Civil,20,Masculino,No,No,No,,No,,,83.0,No,,Sin Riesgo
+TVH00152,2,Ingeniería Industrial,17,Femenino,No,No,Sí,1.0,No,,No,64.1,No,,Riesgo Medio
+TVH00153,1,Ingeniería en Sistemas,17,Femenino,No,No,Sí,1.0,No,,No,75.3,No,,Riesgo Medio
+TVH00154,5,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,93.0,No,,Sin Riesgo
+TVH00155,1,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,80.8,Sí,,Sin Riesgo
+TVH00156,7,Ingeniería Química,21,Masculino,No,Sí,No,,No,4460.0,,80.8,No,No,Sin Riesgo
+TVH00157,4,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,81.2,Sí,,Sin Riesgo
+TVH00158,5,Ingeniería Petrolera,20,Masculino,No,No,No,,No,,,83.4,No,,Sin Riesgo
+TVH00159,4,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,82.8,No,,Sin Riesgo
+TVH00160,1,Ingeniería Química,18,Masculino,No,No,Sí,1.0,No,,No,69.2,Sí,,Riesgo Medio
+TVH00161,8,Ingeniería Civil,20,Femenino,No,No,No,,Sí,,,82.7,No,,Sin Riesgo
+TVH00162,2,Ingeniería Petrolera,18,Femenino,No,No,Sí,2.0,No,,No,76.7,No,,Riesgo Medio
+TVH00163,6,Ingeniería Química,21,Femenino,No,No,No,,No,,,89.1,No,,Sin Riesgo
+TVH00164,7,Ingeniería Civil,20,Femenino,No,No,No,,Sí,,,81.3,Sí,,Sin Riesgo
+TVH00165,1,Ingeniería Petrolera,17,Masculino,No,No,No,,Sí,,,77.9,Sí,,Sin Riesgo
+TVH00166,6,Ingeniería Química,20,Femenino,No,No,No,,No,,,85.8,Sí,,Sin Riesgo
+TVH00167,1,Ingeniería Química,18,Masculino,No,No,No,,No,,,97.7,No,,Sin Riesgo
+TVH00168,2,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,79.2,No,,Sin Riesgo
+TVH00169,1,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,85.7,No,,Sin Riesgo
+TVH00170,5,Ingeniería Civil,21,Femenino,No,Sí,No,,Sí,3357.0,,89.0,No,Sí,Sin Riesgo
+TVH00171,1,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,87.0,No,,Sin Riesgo
+TVH00172,5,Ingeniería Química,19,Femenino,No,No,No,,No,,,82.4,Sí,,Sin Riesgo
+TVH00173,3,Ingeniería en Sistemas,18,Masculino,Sí,No,No,,No,,,79.9,No,,Sin Riesgo
+TVH00174,1,Ingeniería Petrolera,17,Femenino,No,No,No,,No,,,79.6,Sí,,Sin Riesgo
+TVH00175,5,Ingeniería Industrial,21,Masculino,No,Sí,Sí,1.0,No,7347.0,Sí,50.8,No,No,Riesgo Alto
+TVH00176,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,82.8,No,,Sin Riesgo
+TVH00177,6,Ingeniería Industrial,19,Femenino,No,Sí,Sí,1.0,No,2526.0,No,58.3,No,Sí,Riesgo Medio
+TVH00178,1,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,83.7,Sí,,Sin Riesgo
+TVH00179,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,Sí,,,83.8,Sí,,Sin Riesgo
+TVH00180,1,Ingeniería Industrial,19,Masculino,No,No,No,,Sí,,,73.0,Sí,,Sin Riesgo
+TVH00181,6,Ingeniería en Sistemas,19,Masculino,No,No,No,,Sí,,,78.6,Sí,,Sin Riesgo
+TVH00182,7,Ingeniería en Sistemas,21,Masculino,No,No,Sí,1.0,No,,No,66.6,No,,Riesgo Medio
+TVH00183,3,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,86.4,No,,Sin Riesgo
+TVH00184,4,Ingeniería Civil,18,Masculino,No,No,No,,No,,,74.3,Sí,,Sin Riesgo
+TVH00185,2,Ingeniería Petrolera,17,Femenino,Sí,Sí,Sí,1.0,No,1700.0,Sí,65.3,No,Sí,Riesgo Alto
+TVH00186,6,Ingeniería Química,20,Masculino,No,No,No,,No,,,85.0,Sí,,Sin Riesgo
+TVH00187,6,Ingeniería Civil,20,Femenino,No,No,Sí,1.0,No,,Sí,54.3,No,,Riesgo Alto
+TVH00188,3,Ingeniería Petrolera,18,Masculino,No,No,No,,Sí,,,82.4,No,,Sin Riesgo
+TVH00189,5,Ingeniería en Sistemas,19,Masculino,No,Sí,Sí,1.0,No,2403.0,No,59.5,No,No,Riesgo Medio
+TVH00190,2,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,75.7,Sí,,Sin Riesgo
+TVH00191,4,Ingeniería Química,18,Masculino,No,Sí,Sí,1.0,No,1511.0,Sí,57.1,Sí,No,Riesgo Alto
+TVH00192,8,Ingeniería Petrolera,21,Femenino,No,No,No,,Sí,,,86.2,Sí,,Sin Riesgo
+TVH00193,2,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,79.7,No,,Sin Riesgo
+TVH00194,1,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,72.7,Sí,,Sin Riesgo
+TVH00195,2,Ingeniería Industrial,17,Masculino,No,Sí,No,,No,1784.0,,83.5,No,No,Sin Riesgo
+TVH00196,3,Ingeniería Química,18,Femenino,No,No,Sí,1.0,No,,No,62.8,No,,Riesgo Medio
+TVH00197,1,Ingeniería Industrial,17,Femenino,No,No,No,,No,,,73.6,No,,Sin Riesgo
+TVH00198,4,Ingeniería en Sistemas,20,Masculino,No,No,Sí,2.0,Sí,,No,50.8,No,,Riesgo Medio
+TVH00199,2,Ingeniería Civil,18,Masculino,No,No,No,,No,,,80.1,No,,Sin Riesgo
+TVH00200,1,Ingeniería Civil,19,Masculino,No,No,Sí,1.0,No,,No,58.0,No,,Riesgo Medio
+TVH00201,5,Ingeniería en Sistemas,20,Masculino,No,No,No,,No,,,79.7,No,,Sin Riesgo
+TVH00202,9,Ingeniería Química,21,Masculino,No,No,No,,No,,,84.0,No,,Sin Riesgo
+TVH00203,3,Ingeniería Química,18,Femenino,No,No,Sí,1.0,Sí,,No,62.6,Sí,,Riesgo Medio
+TVH00204,3,Ingeniería Petrolera,19,Femenino,No,No,Sí,1.0,No,,No,52.9,No,,Riesgo Medio
+TVH00205,1,Ingeniería en Sistemas,17,Masculino,No,No,Sí,1.0,No,,Sí,63.3,No,,Riesgo Alto
+TVH00206,6,Ingeniería en Sistemas,19,Femenino,Sí,Sí,No,,Sí,2724.0,,79.8,Sí,No,Sin Riesgo
+TVH00207,8,Ingeniería Química,20,Femenino,Sí,No,No,,No,,,88.9,No,,Sin Riesgo
+TVH00208,3,Ingeniería Civil,18,Femenino,No,Sí,No,,No,3544.0,,77.8,Sí,Sí,Sin Riesgo
+TVH00209,3,Ingeniería Química,19,Femenino,No,No,No,,No,,,89.8,No,,Sin Riesgo
+TVH00210,2,Ingeniería Química,18,Femenino,No,No,Sí,2.0,No,,Sí,56.7,No,,Riesgo Alto
+TVH00211,8,Ingeniería Petrolera,20,Femenino,No,No,No,,No,,,71.5,No,,Sin Riesgo
+TVH00212,5,Ingeniería Química,19,Femenino,No,Sí,Sí,1.0,No,2503.0,No,67.0,No,No,Riesgo Medio
+TVH00213,1,Ingeniería Civil,17,Masculino,No,No,Sí,2.0,Sí,,No,54.1,Sí,,Riesgo Medio
+TVH00214,5,Ingeniería Industrial,21,Femenino,No,Sí,Sí,3.0,No,3578.0,No,67.9,Sí,No,Riesgo Medio
+TVH00215,3,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,76.1,No,,Sin Riesgo
+TVH00216,9,Ingeniería Civil,21,Masculino,No,No,No,,No,,,85.6,No,,Sin Riesgo
+TVH00217,3,Ingeniería Civil,20,Masculino,No,Sí,No,,No,1652.0,,82.6,No,No,Sin Riesgo
+TVH00218,8,Ingeniería Química,20,Masculino,No,No,Sí,1.0,No,,Sí,63.6,No,,Riesgo Alto
+TVH00219,1,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,79.6,No,,Sin Riesgo
+TVH00220,2,Ingeniería Civil,18,Femenino,No,No,No,,No,,,73.7,Sí,,Sin Riesgo
+TVH00221,3,Ingeniería en Sistemas,19,Masculino,No,No,Sí,3.0,No,,No,64.7,No,,Riesgo Medio
+TVH00222,6,Ingeniería Química,21,Femenino,No,No,Sí,2.0,Sí,,Sí,58.5,Sí,,Riesgo Alto
+TVH00223,4,Ingeniería Química,19,Femenino,No,No,No,,No,,,80.2,No,,Sin Riesgo
+TVH00224,3,Ingeniería en Sistemas,20,Masculino,No,Sí,Sí,2.0,No,5639.0,No,66.9,No,Sí,Riesgo Medio
+TVH00225,5,Ingeniería Petrolera,19,Masculino,No,No,No,,No,,,69.5,No,,Sin Riesgo
+TVH00226,3,Ingeniería Industrial,19,Masculino,No,No,Sí,2.0,No,,No,58.6,No,,Riesgo Medio
+TVH00227,1,Ingeniería Industrial,17,Femenino,No,No,No,,No,,,84.7,No,,Sin Riesgo
+TVH00228,1,Ingeniería Industrial,17,Femenino,No,No,No,,Sí,,,84.5,Sí,,Sin Riesgo
+TVH00229,8,Ingeniería Petrolera,21,Masculino,No,Sí,No,,No,2898.0,,70.2,Sí,Sí,Sin Riesgo
+TVH00230,3,Ingeniería Química,20,Femenino,No,No,No,,Sí,,,87.3,Sí,,Sin Riesgo
+TVH00231,8,Ingeniería Petrolera,20,Masculino,No,Sí,Sí,1.0,No,7408.0,No,60.7,No,Sí,Riesgo Medio
+TVH00232,1,Ingeniería Industrial,17,Masculino,No,No,Sí,1.0,No,,No,76.4,Sí,,Riesgo Medio
+TVH00233,8,Ingeniería en Sistemas,20,Femenino,No,Sí,Sí,1.0,No,2059.0,No,67.3,No,Sí,Riesgo Medio
+TVH00234,6,Ingeniería Civil,19,Masculino,No,Sí,No,,No,1024.0,,84.6,No,Sí,Sin Riesgo
+TVH00235,6,Ingeniería Petrolera,19,Masculino,Sí,No,No,,No,,,83.8,Sí,,Sin Riesgo
+TVH00236,7,Ingeniería en Sistemas,21,Masculino,No,No,No,,No,,,71.4,No,,Sin Riesgo
+TVH00237,2,Ingeniería Industrial,17,Femenino,No,Sí,No,,No,1983.0,,80.9,No,Sí,Sin Riesgo
+TVH00238,7,Ingeniería Civil,21,Masculino,No,No,No,,Sí,,,82.4,Sí,,Sin Riesgo
+TVH00239,1,Ingeniería Petrolera,17,Femenino,No,No,No,,No,,,70.5,No,,Sin Riesgo
+TVH00240,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,76.9,No,,Sin Riesgo
+TVH00241,9,Ingeniería Petrolera,22,Femenino,Sí,No,Sí,1.0,No,,No,58.8,Sí,,Riesgo Medio
+TVH00242,8,Ingeniería Petrolera,20,Masculino,No,No,No,,No,,,78.4,No,,Sin Riesgo
+TVH00243,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,76.5,No,,Sin Riesgo
+TVH00244,1,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,78.7,No,,Sin Riesgo
+TVH00245,1,Ingeniería Industrial,17,Masculino,No,Sí,No,,No,5715.0,,71.3,No,Sí,Sin Riesgo
+TVH00246,6,Ingeniería Química,20,Masculino,No,Sí,Sí,1.0,No,1866.0,No,74.2,Sí,No,Riesgo Medio
+TVH00247,2,Ingeniería Petrolera,18,Femenino,Sí,No,No,,Sí,,,75.0,Sí,,Sin Riesgo
+TVH00248,3,Ingeniería Civil,18,Masculino,No,No,No,,Sí,,,77.3,Sí,,Sin Riesgo
+TVH00249,1,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,79.7,No,,Sin Riesgo
+TVH00250,1,Ingeniería Civil,19,Masculino,No,Sí,No,,No,4928.0,,75.8,No,Sí,Sin Riesgo
+TVH00251,2,Ingeniería Industrial,17,Femenino,No,No,Sí,1.0,No,,No,49.0,No,,Riesgo Medio
+TVH00252,4,Ingeniería en Sistemas,18,Femenino,No,Sí,No,,No,6782.0,,77.0,No,Sí,Sin Riesgo
+TVH00253,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,70.6,No,,Sin Riesgo
+TVH00254,6,Ingeniería Química,19,Masculino,No,No,Sí,1.0,No,,No,60.9,No,,Riesgo Medio
+TVH00255,7,Ingeniería Industrial,22,Femenino,No,No,Sí,2.0,No,,No,57.7,No,,Riesgo Medio
+TVH00256,1,Ingeniería Industrial,17,Femenino,No,No,No,,No,,,84.7,No,,Sin Riesgo
+TVH00257,1,Ingeniería Civil,17,Masculino,No,No,Sí,2.0,No,,No,63.0,No,,Riesgo Medio
+TVH00258,4,Ingeniería Civil,18,Femenino,No,Sí,Sí,2.0,No,2320.0,No,70.4,No,No,Riesgo Medio
+TVH00259,3,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,77.6,No,,Sin Riesgo
+TVH00260,9,Ingeniería Química,21,Femenino,No,No,Sí,2.0,Sí,,No,58.4,No,,Riesgo Medio
+TVH00261,1,Ingeniería Petrolera,17,Masculino,No,Sí,No,,Sí,4184.0,,90.6,Sí,No,Sin Riesgo
+TVH00262,3,Ingeniería Petrolera,18,Femenino,No,No,No,,Sí,,,95.0,No,,Sin Riesgo
+TVH00263,9,Ingeniería Civil,21,Femenino,No,No,No,,No,,,83.6,No,,Sin Riesgo
+TVH00264,6,Ingeniería Civil,19,Femenino,No,Sí,No,,No,3219.0,,78.7,No,Sí,Sin Riesgo
+TVH00265,1,Ingeniería Química,17,Femenino,No,Sí,No,,No,3873.0,,75.4,Sí,No,Sin Riesgo
+TVH00266,1,Ingeniería Civil,18,Masculino,No,No,No,,No,,,76.3,No,,Sin Riesgo
+TVH00267,1,Ingeniería Industrial,17,Femenino,No,Sí,No,,No,4829.0,,74.0,No,No,Sin Riesgo
+TVH00268,4,Ingeniería Civil,18,Femenino,No,No,Sí,1.0,No,,No,56.4,No,,Riesgo Medio
+TVH00269,1,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,78.9,No,,Sin Riesgo
+TVH00270,4,Ingeniería Civil,19,Femenino,No,No,Sí,2.0,No,,Sí,58.9,No,,Riesgo Alto
+TVH00271,4,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,No,,No,59.5,Sí,,Riesgo Medio
+TVH00272,1,Ingeniería en Sistemas,17,Masculino,No,No,No,,Sí,,,85.4,Sí,,Sin Riesgo
+TVH00273,6,Ingeniería Civil,20,Femenino,No,No,Sí,1.0,No,,No,56.7,No,,Riesgo Medio
+TVH00274,6,Ingeniería en Sistemas,20,Masculino,No,No,Sí,1.0,No,,No,52.1,No,,Riesgo Medio
+TVH00275,8,Ingeniería en Sistemas,20,Femenino,No,Sí,No,,No,9786.0,,81.4,No,Sí,Sin Riesgo
+TVH00276,4,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,80.5,No,,Sin Riesgo
+TVH00277,1,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,84.1,No,,Sin Riesgo
+TVH00278,8,Ingeniería en Sistemas,21,Masculino,No,No,No,,No,,,75.1,No,,Sin Riesgo
+TVH00279,6,Ingeniería en Sistemas,20,Femenino,No,No,No,,Sí,,,72.8,Sí,,Sin Riesgo
+TVH00280,1,Ingeniería Petrolera,19,Masculino,No,Sí,No,,Sí,5992.0,,72.9,Sí,No,Sin Riesgo
+TVH00281,2,Ingeniería Civil,17,Masculino,No,Sí,No,,No,5669.0,,81.7,No,Sí,Sin Riesgo
+TVH00282,2,Ingeniería Industrial,17,Femenino,Sí,No,No,,No,,,74.9,Sí,,Sin Riesgo
+TVH00283,7,Ingeniería en Sistemas,20,Masculino,No,Sí,No,,No,2313.0,,76.6,No,Sí,Sin Riesgo
+TVH00284,4,Ingeniería Química,20,Femenino,No,No,No,,No,,,86.2,No,,Sin Riesgo
+TVH00285,1,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,77.1,No,,Sin Riesgo
+TVH00286,3,Ingeniería Civil,20,Masculino,No,No,Sí,2.0,No,,No,58.0,Sí,,Riesgo Medio
+TVH00287,1,Ingeniería Química,17,Femenino,No,Sí,No,,Sí,13158.0,,80.7,No,Sí,Sin Riesgo
+TVH00288,2,Ingeniería Industrial,18,Masculino,No,Sí,No,,Sí,3104.0,,85.3,Sí,Sí,Sin Riesgo
+TVH00289,4,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,78.9,No,,Sin Riesgo
+TVH00290,4,Ingeniería Industrial,20,Femenino,No,No,No,,No,,,83.0,Sí,,Sin Riesgo
+TVH00291,7,Ingeniería Civil,20,Femenino,No,No,Sí,1.0,No,,Sí,76.9,No,,Riesgo Alto
+TVH00292,2,Ingeniería Petrolera,18,Femenino,No,No,Sí,1.0,No,,No,53.8,Sí,,Riesgo Medio
+TVH00293,7,Ingeniería Química,20,Masculino,No,No,Sí,1.0,No,,No,62.3,No,,Riesgo Medio
+TVH00294,2,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,89.9,No,,Sin Riesgo
+TVH00295,3,Ingeniería Civil,19,Masculino,No,Sí,No,,Sí,2744.0,,77.4,Sí,No,Sin Riesgo
+TVH00296,4,Ingeniería Química,19,Masculino,No,No,No,,No,,,79.4,Sí,,Sin Riesgo
+TVH00297,3,Ingeniería Civil,19,Masculino,No,No,No,,No,,,77.6,No,,Sin Riesgo
+TVH00298,1,Ingeniería Civil,17,Femenino,No,No,Sí,2.0,No,,No,64.1,Sí,,Riesgo Medio
+TVH00299,5,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,89.6,No,,Sin Riesgo
+TVH00300,2,Ingeniería Civil,18,Masculino,No,No,Sí,1.0,No,,No,64.1,No,,Riesgo Medio
+TVH00301,4,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,92.5,No,,Sin Riesgo
+TVH00302,4,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,84.6,No,,Sin Riesgo
+TVH00303,7,Ingeniería Industrial,20,Masculino,No,No,No,,Sí,,,87.9,Sí,,Sin Riesgo
+TVH00304,1,Ingeniería Industrial,27,Masculino,No,No,No,,Sí,,,93.7,Sí,,Sin Riesgo
+TVH00305,5,Ingeniería Civil,19,Femenino,No,No,Sí,1.0,No,,No,48.3,No,,Riesgo Medio
+TVH00306,1,Ingeniería Industrial,17,Femenino,No,No,Sí,1.0,No,,No,53.4,No,,Riesgo Medio
+TVH00307,5,Ingeniería Química,19,Femenino,No,No,Sí,1.0,No,,No,55.3,No,,Riesgo Medio
+TVH00308,2,Ingeniería Civil,18,Masculino,No,No,No,,No,,,75.7,No,,Sin Riesgo
+TVH00309,6,Ingeniería en Sistemas,19,Femenino,No,Sí,No,,No,8894.0,,90.9,No,No,Sin Riesgo
+TVH00310,4,Ingeniería Industrial,18,Femenino,No,No,Sí,3.0,Sí,,Sí,62.2,Sí,,Riesgo Alto
+TVH00311,8,Ingeniería Civil,20,Masculino,No,No,No,,No,,,88.2,No,,Sin Riesgo
+TVH00312,4,Ingeniería en Sistemas,18,Femenino,No,No,Sí,3.0,No,,Sí,63.6,No,,Riesgo Alto
+TVH00313,2,Ingeniería Civil,17,Femenino,No,No,No,,Sí,,,82.3,No,,Sin Riesgo
+TVH00314,3,Ingeniería Química,26,Masculino,No,No,Sí,2.0,No,,Sí,45.3,Sí,,Riesgo Alto
+TVH00315,8,Ingeniería Química,21,Masculino,No,No,No,,No,,,75.4,No,,Sin Riesgo
+TVH00316,4,Ingeniería Petrolera,18,Masculino,No,No,Sí,1.0,Sí,,Sí,55.2,Sí,,Riesgo Alto
+TVH00317,4,Ingeniería Química,18,Femenino,No,No,Sí,1.0,No,,No,48.4,No,,Riesgo Medio
+TVH00318,6,Ingeniería Civil,19,Masculino,No,No,Sí,1.0,Sí,,Sí,78.0,Sí,,Riesgo Alto
+TVH00319,3,Ingeniería en Sistemas,20,Femenino,No,Sí,No,,Sí,1879.0,,75.9,No,No,Sin Riesgo
+TVH00320,8,Ingeniería Química,21,Femenino,No,Sí,No,,No,4086.0,,71.9,No,Sí,Sin Riesgo
+TVH00321,1,Ingeniería Química,19,Femenino,Sí,No,Sí,2.0,No,,No,65.0,Sí,,Riesgo Medio
+TVH00322,9,Ingeniería Química,21,Masculino,No,Sí,Sí,2.0,No,1030.0,Sí,62.3,No,No,Riesgo Alto
+TVH00323,2,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,76.3,Sí,,Sin Riesgo
+TVH00324,6,Ingeniería en Sistemas,19,Femenino,Sí,No,No,,No,,,77.1,No,,Sin Riesgo
+TVH00325,9,Ingeniería Química,21,Femenino,No,No,No,,Sí,,,88.7,Sí,,Sin Riesgo
+TVH00326,9,Ingeniería Civil,21,Femenino,No,No,Sí,1.0,Sí,,No,66.2,Sí,,Riesgo Medio
+TVH00327,7,Ingeniería Industrial,20,Femenino,Sí,Sí,No,,No,1635.0,,77.7,No,Sí,Sin Riesgo
+TVH00328,8,Ingeniería Civil,20,Masculino,Sí,No,No,,No,,,82.0,No,,Sin Riesgo
+TVH00329,7,Ingeniería Química,20,Femenino,No,No,No,,Sí,,,83.0,Sí,,Sin Riesgo
+TVH00330,3,Ingeniería Química,19,Masculino,No,Sí,Sí,3.0,No,8539.0,No,47.0,No,Sí,Riesgo Medio
+TVH00331,1,Ingeniería en Sistemas,17,Masculino,No,No,No,,Sí,,,87.7,Sí,,Sin Riesgo
+TVH00332,1,Ingeniería en Sistemas,17,Masculino,No,No,Sí,2.0,No,,No,58.0,No,,Riesgo Medio
+TVH00333,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,83.4,No,,Sin Riesgo
+TVH00334,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,79.8,No,,Sin Riesgo
+TVH00335,1,Ingeniería Petrolera,17,Femenino,No,Sí,Sí,1.0,No,7604.0,No,64.5,No,No,Riesgo Medio
+TVH00336,2,Ingeniería Química,19,Femenino,No,No,Sí,2.0,Sí,,No,50.8,Sí,,Riesgo Medio
+TVH00337,7,Ingeniería Civil,20,Masculino,No,No,No,,No,,,87.4,Sí,,Sin Riesgo
+TVH00338,5,Ingeniería Industrial,19,Femenino,No,No,Sí,2.0,Sí,,No,67.3,Sí,,Riesgo Medio
+TVH00339,10,Ingeniería Petrolera,21,Femenino,No,No,No,,No,,,73.1,No,,Sin Riesgo
+TVH00340,4,Ingeniería Civil,18,Femenino,No,No,No,,No,,,84.3,No,,Sin Riesgo
+TVH00341,2,Ingeniería Civil,17,Masculino,No,No,Sí,1.0,No,,No,59.2,No,,Riesgo Medio
+TVH00342,5,Ingeniería Industrial,20,Femenino,No,Sí,Sí,1.0,No,1406.0,Sí,61.1,No,No,Riesgo Alto
+TVH00343,3,Ingeniería Química,18,Femenino,No,No,No,,No,,,75.7,No,,Sin Riesgo
+TVH00344,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,81.7,No,,Sin Riesgo
+TVH00345,6,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,75.7,No,,Sin Riesgo
+TVH00346,2,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,80.6,No,,Sin Riesgo
+TVH00347,2,Ingeniería Petrolera,19,Femenino,No,No,Sí,2.0,No,,Sí,62.7,No,,Riesgo Alto
+TVH00348,2,Ingeniería Petrolera,17,Masculino,No,Sí,No,,No,1986.0,,80.9,Sí,Sí,Sin Riesgo
+TVH00349,8,Ingeniería en Sistemas,20,Femenino,No,Sí,Sí,1.0,No,1891.0,No,60.1,No,Sí,Riesgo Medio
+TVH00350,2,Ingeniería Industrial,19,Masculino,Sí,No,No,,No,,,73.5,No,,Sin Riesgo
+TVH00351,1,Ingeniería Civil,18,Femenino,No,Sí,No,,No,4793.0,,75.9,No,Sí,Sin Riesgo
+TVH00352,6,Ingeniería Civil,20,Femenino,Sí,No,Sí,1.0,No,,No,59.7,No,,Riesgo Medio
+TVH00353,3,Ingeniería en Sistemas,18,Masculino,No,Sí,No,,Sí,8206.0,,69.0,No,Sí,Sin Riesgo
+TVH00354,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,94.2,No,,Sin Riesgo
+TVH00355,1,Ingeniería Civil,17,Femenino,No,No,No,,No,,,84.2,Sí,,Sin Riesgo
+TVH00356,2,Ingeniería Industrial,19,Femenino,No,No,No,,Sí,,,86.3,Sí,,Sin Riesgo
+TVH00357,2,Ingeniería Civil,17,Masculino,No,No,No,,No,,,93.5,No,,Sin Riesgo
+TVH00358,4,Ingeniería Industrial,18,Femenino,No,No,Sí,3.0,No,,No,54.2,No,,Riesgo Medio
+TVH00359,3,Ingeniería Química,18,Femenino,No,No,No,,Sí,,,87.0,Sí,,Sin Riesgo
+TVH00360,3,Ingeniería Petrolera,19,Masculino,No,Sí,Sí,1.0,No,7496.0,No,74.2,No,Sí,Riesgo Medio
+TVH00361,1,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,91.7,No,,Sin Riesgo
+TVH00362,2,Ingeniería Petrolera,19,Masculino,No,Sí,No,,No,5955.0,,76.7,No,Sí,Sin Riesgo
+TVH00363,6,Ingeniería Química,19,Femenino,Sí,No,Sí,1.0,No,,Sí,66.3,Sí,,Riesgo Alto
+TVH00364,9,Ingeniería en Sistemas,23,Femenino,No,Sí,Sí,3.0,No,1068.0,Sí,54.6,No,Sí,Riesgo Alto
+TVH00365,2,Ingeniería en Sistemas,17,Femenino,No,No,Sí,3.0,No,,No,57.1,Sí,,Riesgo Medio
+TVH00366,7,Ingeniería Civil,21,Masculino,No,No,No,,No,,,77.3,No,,Sin Riesgo
+TVH00367,1,Ingeniería en Sistemas,18,Femenino,No,No,Sí,2.0,No,,No,62.1,No,,Riesgo Medio
+TVH00368,4,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,83.4,No,,Sin Riesgo
+TVH00369,4,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,87.6,No,,Sin Riesgo
+TVH00370,5,Ingeniería en Sistemas,20,Femenino,No,Sí,No,,Sí,9059.0,,85.2,Sí,Sí,Sin Riesgo
+TVH00371,3,Ingeniería Industrial,19,Femenino,No,No,Sí,1.0,No,,No,63.1,No,,Riesgo Medio
+TVH00372,1,Ingeniería Industrial,18,Masculino,No,No,Sí,3.0,No,,No,72.6,Sí,,Riesgo Medio
+TVH00373,2,Ingeniería Civil,18,Femenino,No,No,Sí,1.0,No,,No,59.1,No,,Riesgo Medio
+TVH00374,5,Ingeniería Civil,20,Masculino,Sí,No,Sí,3.0,No,,No,61.0,Sí,,Riesgo Medio
+TVH00375,2,Ingeniería en Sistemas,19,Femenino,No,No,No,,Sí,,,72.7,Sí,,Sin Riesgo
+TVH00376,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,80.4,No,,Sin Riesgo
+TVH00377,1,Ingeniería Química,18,Femenino,No,No,No,,No,,,91.6,No,,Sin Riesgo
+TVH00378,5,Ingeniería en Sistemas,20,Masculino,No,Sí,No,,Sí,3981.0,,73.9,Sí,No,Sin Riesgo
+TVH00379,1,Ingeniería Petrolera,17,Masculino,No,No,No,,No,,,84.0,No,,Sin Riesgo
+TVH00380,4,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,No,,No,67.0,Sí,,Riesgo Medio
+TVH00381,3,Ingeniería Industrial,19,Masculino,No,No,Sí,2.0,No,,No,58.3,No,,Riesgo Medio
+TVH00382,6,Ingeniería Química,19,Masculino,No,Sí,No,,No,2635.0,,76.6,No,No,Sin Riesgo
+TVH00383,1,Ingeniería Petrolera,17,Femenino,No,No,Sí,2.0,No,,Sí,55.9,No,,Riesgo Alto
+TVH00384,3,Ingeniería Industrial,18,Masculino,No,No,No,,Sí,,,84.9,Sí,,Sin Riesgo
+TVH00385,7,Ingeniería Química,20,Masculino,No,Sí,Sí,1.0,No,1720.0,No,66.4,No,No,Riesgo Medio
+TVH00386,5,Ingeniería Civil,21,Femenino,No,No,Sí,2.0,Sí,,No,69.6,Sí,,Riesgo Medio
+TVH00387,1,Ingeniería Química,18,Masculino,No,Sí,No,,No,1078.0,,76.4,Sí,Sí,Sin Riesgo
+TVH00388,4,Ingeniería en Sistemas,19,Femenino,No,No,Sí,2.0,No,,No,58.4,No,,Riesgo Medio
+TVH00389,2,Ingeniería Civil,17,Femenino,No,No,Sí,3.0,No,,No,53.8,No,,Riesgo Medio
+TVH00390,2,Ingeniería Industrial,18,Femenino,No,No,Sí,2.0,No,,No,68.7,Sí,,Riesgo Medio
+TVH00391,2,Ingeniería Química,17,Masculino,No,No,No,,No,,,89.1,No,,Sin Riesgo
+TVH00392,4,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,No,,No,61.7,No,,Riesgo Medio
+TVH00393,1,Ingeniería en Sistemas,17,Masculino,No,No,Sí,1.0,No,,No,68.3,No,,Riesgo Medio
+TVH00394,1,Ingeniería Industrial,18,Femenino,No,No,No,,Sí,,,85.8,No,,Sin Riesgo
+TVH00395,7,Ingeniería Industrial,20,Masculino,Sí,Sí,No,,Sí,9663.0,,82.8,No,Sí,Sin Riesgo
+TVH00396,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,86.4,Sí,,Sin Riesgo
+TVH00397,3,Ingeniería Química,18,Femenino,No,Sí,No,,Sí,2725.0,,72.6,Sí,No,Sin Riesgo
+TVH00398,4,Ingeniería Química,18,Masculino,No,No,Sí,3.0,No,,Sí,55.8,No,,Riesgo Alto
+TVH00399,7,Ingeniería en Sistemas,20,Masculino,No,No,Sí,1.0,Sí,,Sí,69.3,Sí,,Riesgo Alto
+TVH00400,8,Ingeniería Civil,20,Femenino,No,No,No,,No,,,80.4,Sí,,Sin Riesgo
+TVH00401,1,Ingeniería Química,17,Masculino,No,No,No,,No,,,74.5,No,,Sin Riesgo
+TVH00402,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,78.8,No,,Sin Riesgo
+TVH00403,4,Ingeniería Química,20,Femenino,No,No,No,,No,,,93.8,No,,Sin Riesgo
+TVH00404,3,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,77.2,No,,Sin Riesgo
+TVH00405,3,Ingeniería Civil,19,Masculino,Sí,No,No,,No,,,79.1,Sí,,Sin Riesgo
+TVH00406,1,Ingeniería en Sistemas,17,Femenino,No,No,Sí,2.0,Sí,,Sí,61.6,Sí,,Riesgo Alto
+TVH00407,2,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,87.5,No,,Sin Riesgo
+TVH00408,9,Ingeniería Civil,21,Masculino,Sí,No,No,,Sí,,,79.7,No,,Sin Riesgo
+TVH00409,10,Ingeniería Petrolera,21,Masculino,No,Sí,Sí,2.0,No,2278.0,No,53.8,No,No,Riesgo Medio
+TVH00410,7,Ingeniería en Sistemas,20,Femenino,No,No,No,,No,,,84.5,No,,Sin Riesgo
+TVH00411,2,Ingeniería Industrial,18,Femenino,No,No,Sí,3.0,No,,No,66.1,No,,Riesgo Medio
+TVH00412,9,Ingeniería Química,23,Masculino,Sí,Sí,No,,Sí,1240.0,,71.1,Sí,No,Sin Riesgo
+TVH00413,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,77.7,No,,Sin Riesgo
+TVH00414,3,Ingeniería Petrolera,20,Masculino,No,Sí,No,,No,2251.0,,72.4,Sí,No,Sin Riesgo
+TVH00415,2,Ingeniería Civil,18,Masculino,No,Sí,No,,No,7227.0,,77.4,No,No,Sin Riesgo
+TVH00416,4,Ingeniería Industrial,18,Femenino,No,Sí,Sí,1.0,No,2111.0,Sí,50.3,No,No,Riesgo Alto
+TVH00417,5,Ingeniería en Sistemas,20,Femenino,Sí,No,Sí,2.0,No,,Sí,61.8,No,,Riesgo Alto
+TVH00418,8,Ingeniería Química,20,Femenino,No,No,No,,Sí,,,83.1,No,,Sin Riesgo
+TVH00419,1,Ingeniería Industrial,17,Femenino,No,No,No,,No,,,93.3,Sí,,Sin Riesgo
+TVH00420,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,83.7,No,,Sin Riesgo
+TVH00421,4,Ingeniería Industrial,27,Femenino,No,No,No,,No,,,82.0,No,,Sin Riesgo
+TVH00422,5,Ingeniería Civil,19,Femenino,No,No,No,,No,,,80.0,No,,Sin Riesgo
+TVH00423,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,83.7,No,,Sin Riesgo
+TVH00424,9,Ingeniería Civil,21,Femenino,No,No,Sí,1.0,Sí,,No,60.4,Sí,,Riesgo Medio
+TVH00425,2,Ingeniería Química,17,Femenino,No,No,Sí,2.0,Sí,,Sí,71.8,Sí,,Riesgo Alto
+TVH00426,6,Ingeniería Petrolera,19,Masculino,No,Sí,No,,No,1268.0,,88.5,No,No,Sin Riesgo
+TVH00427,1,Ingeniería Industrial,19,Masculino,No,No,No,,Sí,,,85.0,Sí,,Sin Riesgo
+TVH00428,5,Ingeniería Química,19,Femenino,No,No,Sí,2.0,Sí,,No,59.7,Sí,,Riesgo Medio
+TVH00429,3,Ingeniería Industrial,20,Masculino,No,No,Sí,2.0,No,,Sí,78.0,Sí,,Riesgo Alto
+TVH00430,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,86.1,No,,Sin Riesgo
+TVH00431,4,Ingeniería Civil,18,Masculino,No,No,No,,No,,,73.5,Sí,,Sin Riesgo
+TVH00432,2,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,75.4,No,,Sin Riesgo
+TVH00433,5,Ingeniería Química,19,Masculino,No,No,No,,No,,,91.7,Sí,,Sin Riesgo
+TVH00434,2,Ingeniería Industrial,19,Masculino,No,No,Sí,3.0,No,,No,69.5,No,,Riesgo Medio
+TVH00435,4,Ingeniería en Sistemas,18,Femenino,No,Sí,No,,Sí,5712.0,,70.9,Sí,No,Sin Riesgo
+TVH00436,5,Ingeniería Petrolera,19,Femenino,Sí,Sí,Sí,1.0,No,1709.0,No,61.0,Sí,Sí,Riesgo Medio
+TVH00437,2,Ingeniería Química,18,Femenino,No,Sí,Sí,3.0,No,3452.0,No,57.0,Sí,Sí,Riesgo Medio
+TVH00438,4,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,No,,No,65.5,No,,Riesgo Medio
+TVH00439,5,Ingeniería Petrolera,20,Femenino,Sí,Sí,Sí,1.0,Sí,1984.0,Sí,59.0,Sí,Sí,Riesgo Alto
+TVH00440,1,Ingeniería Química,17,Femenino,No,No,Sí,1.0,No,,Sí,56.7,No,,Riesgo Alto
+TVH00441,5,Ingeniería Química,19,Masculino,No,No,No,,No,,,97.8,No,,Sin Riesgo
+TVH00442,5,Ingeniería Petrolera,21,Femenino,No,No,No,,No,,,92.3,No,,Sin Riesgo
+TVH00443,3,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,69.0,No,,Sin Riesgo
+TVH00444,2,Ingeniería Petrolera,17,Masculino,No,No,No,,No,,,84.1,No,,Sin Riesgo
+TVH00445,2,Ingeniería Química,17,Masculino,No,No,No,,No,,,83.1,No,,Sin Riesgo
+TVH00446,8,Ingeniería en Sistemas,21,Femenino,No,No,No,,No,,,86.1,No,,Sin Riesgo
+TVH00447,1,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,83.7,No,,Sin Riesgo
+TVH00448,2,Ingeniería Civil,17,Femenino,No,Sí,Sí,1.0,No,1375.0,No,62.6,No,No,Riesgo Medio
+TVH00449,5,Ingeniería Industrial,19,Masculino,Sí,No,No,,No,,,83.4,Sí,,Sin Riesgo
+TVH00450,3,Ingeniería Petrolera,19,Femenino,No,Sí,No,,Sí,4152.0,,71.6,Sí,No,Sin Riesgo
+TVH00451,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,72.9,No,,Sin Riesgo
+TVH00452,3,Ingeniería Petrolera,19,Masculino,No,No,Sí,1.0,No,,No,44.8,No,,Riesgo Medio
+TVH00453,2,Ingeniería en Sistemas,19,Masculino,No,Sí,Sí,1.0,No,5242.0,Sí,50.6,No,Sí,Riesgo Alto
+TVH00454,4,Ingeniería Industrial,20,Femenino,No,Sí,No,,Sí,1197.0,,70.4,Sí,No,Sin Riesgo
+TVH00455,4,Ingeniería Civil,18,Masculino,No,No,Sí,2.0,No,,No,56.1,Sí,,Riesgo Medio
+TVH00456,2,Ingeniería Industrial,17,Femenino,No,Sí,No,,No,7291.0,,84.8,No,Sí,Sin Riesgo
+TVH00457,2,Ingeniería Industrial,18,Masculino,No,Sí,Sí,2.0,No,3691.0,No,58.9,No,No,Riesgo Medio
+TVH00458,5,Ingeniería en Sistemas,20,Masculino,Sí,No,No,,No,,,77.0,No,,Sin Riesgo
+TVH00459,3,Ingeniería Civil,18,Masculino,No,No,No,,No,,,81.4,No,,Sin Riesgo
+TVH00460,2,Ingeniería Química,18,Masculino,No,Sí,No,,No,9486.0,,82.0,No,No,Sin Riesgo
+TVH00461,4,Ingeniería Civil,18,Masculino,No,No,No,,No,,,95.4,No,,Sin Riesgo
+TVH00462,5,Ingeniería Química,21,Masculino,No,No,Sí,1.0,No,,No,69.4,Sí,,Riesgo Medio
+TVH00463,2,Ingeniería Química,26,Femenino,No,No,No,,No,,,88.7,No,,Sin Riesgo
+TVH00464,2,Ingeniería Petrolera,18,Femenino,Sí,No,No,,Sí,,,69.0,Sí,,Sin Riesgo
+TVH00465,3,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,81.7,Sí,,Sin Riesgo
+TVH00466,3,Ingeniería Industrial,19,Femenino,Sí,No,Sí,2.0,No,,No,60.4,Sí,,Riesgo Medio
+TVH00467,4,Ingeniería Petrolera,19,Masculino,No,Sí,No,,No,2410.0,,83.1,Sí,No,Sin Riesgo
+TVH00468,1,Ingeniería Química,18,Femenino,No,No,No,,No,,,90.1,Sí,,Sin Riesgo
+TVH00469,4,Ingeniería Química,19,Femenino,No,Sí,No,,Sí,2488.0,,73.5,No,Sí,Sin Riesgo
+TVH00470,1,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,76.0,No,,Sin Riesgo
+TVH00471,5,Ingeniería Petrolera,20,Masculino,No,No,No,,No,,,71.0,No,,Sin Riesgo
+TVH00472,8,Ingeniería Industrial,20,Masculino,No,No,No,,No,,,76.1,No,,Sin Riesgo
+TVH00473,10,Ingeniería Petrolera,21,Masculino,No,Sí,Sí,1.0,Sí,4076.0,Sí,65.4,No,Sí,Riesgo Alto
+TVH00474,3,Ingeniería Química,18,Masculino,No,No,No,,Sí,,,81.2,Sí,,Sin Riesgo
+TVH00475,8,Ingeniería Petrolera,20,Masculino,No,Sí,Sí,1.0,Sí,5360.0,No,64.2,No,Sí,Riesgo Medio
+TVH00476,6,Ingeniería Civil,20,Femenino,No,Sí,No,,No,6128.0,,75.1,No,Sí,Sin Riesgo
+TVH00477,2,Ingeniería Industrial,17,Masculino,No,Sí,No,,No,2027.0,,82.5,No,No,Sin Riesgo
+TVH00478,5,Ingeniería Industrial,19,Masculino,No,No,Sí,2.0,Sí,,Sí,61.5,Sí,,Riesgo Alto
+TVH00479,1,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,84.8,No,,Sin Riesgo
+TVH00480,5,Ingeniería en Sistemas,19,Femenino,Sí,Sí,No,,No,5157.0,,86.2,No,Sí,Sin Riesgo
+TVH00481,8,Ingeniería en Sistemas,21,Masculino,No,No,No,,No,,,82.2,No,,Sin Riesgo
+TVH00482,1,Ingeniería Química,17,Masculino,No,Sí,No,,No,10681.0,,73.4,No,Sí,Sin Riesgo
+TVH00483,2,Ingeniería Industrial,17,Masculino,No,No,Sí,2.0,No,,Sí,58.9,No,,Riesgo Alto
+TVH00484,2,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,89.6,Sí,,Sin Riesgo
+TVH00485,2,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,84.3,No,,Sin Riesgo
+TVH00486,6,Ingeniería en Sistemas,19,Femenino,No,No,Sí,1.0,Sí,,No,65.2,Sí,,Riesgo Medio
+TVH00487,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,84.1,No,,Sin Riesgo
+TVH00488,3,Ingeniería Civil,18,Masculino,Sí,No,Sí,1.0,No,,No,61.7,No,,Riesgo Medio
+TVH00489,3,Ingeniería Química,19,Femenino,No,No,No,,Sí,,,86.5,No,,Sin Riesgo
+TVH00490,4,Ingeniería Química,20,Femenino,No,No,No,,No,,,90.3,Sí,,Sin Riesgo
+TVH00491,9,Ingeniería Química,21,Femenino,No,No,Sí,2.0,No,,No,54.5,No,,Riesgo Medio
+TVH00492,5,Ingeniería Química,19,Masculino,No,No,Sí,2.0,No,,No,65.5,Sí,,Riesgo Medio
+TVH00493,6,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,81.3,No,,Sin Riesgo
+TVH00494,2,Ingeniería Química,18,Femenino,No,No,Sí,2.0,Sí,,No,56.8,Sí,,Riesgo Medio
+TVH00495,4,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,79.7,Sí,,Sin Riesgo
+TVH00496,3,Ingeniería Industrial,19,Masculino,No,No,No,,No,,,88.3,No,,Sin Riesgo
+TVH00497,1,Ingeniería Química,18,Masculino,No,No,Sí,2.0,No,,Sí,67.3,No,,Riesgo Alto
+TVH00498,4,Ingeniería Química,19,Masculino,No,No,No,,Sí,,,89.2,Sí,,Sin Riesgo
+TVH00499,1,Ingeniería Civil,18,Masculino,No,No,No,,No,,,85.4,Sí,,Sin Riesgo
+TVH00500,2,Ingeniería Civil,17,Masculino,No,Sí,Sí,1.0,No,2409.0,Sí,64.4,No,No,Riesgo Alto
+TVH00501,2,Ingeniería Química,18,Femenino,No,No,No,,No,,,90.2,No,,Sin Riesgo
+TVH00502,5,Ingeniería Industrial,19,Femenino,No,No,Sí,1.0,No,,Sí,60.3,Sí,,Riesgo Alto
+TVH00503,2,Ingeniería Química,18,Masculino,No,No,No,,No,,,85.1,Sí,,Sin Riesgo
+TVH00504,5,Ingeniería Petrolera,20,Masculino,No,No,No,,No,,,86.8,No,,Sin Riesgo
+TVH00505,2,Ingeniería Petrolera,17,Masculino,Sí,No,No,,Sí,,,69.0,No,,Sin Riesgo
+TVH00506,2,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,84.0,No,,Sin Riesgo
+TVH00507,4,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,73.9,No,,Sin Riesgo
+TVH00508,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,80.4,No,,Sin Riesgo
+TVH00509,4,Ingeniería Civil,18,Masculino,No,No,No,,No,,,74.5,No,,Sin Riesgo
+TVH00510,3,Ingeniería Civil,19,Femenino,No,No,Sí,1.0,No,,No,64.5,No,,Riesgo Medio
+TVH00511,5,Ingeniería Civil,20,Femenino,Sí,Sí,Sí,1.0,No,1500.0,No,78.0,No,No,Riesgo Medio
+TVH00512,1,Ingeniería Petrolera,18,Femenino,No,No,No,,Sí,,,74.0,Sí,,Sin Riesgo
+TVH00513,1,Ingeniería Civil,18,Masculino,No,No,Sí,2.0,No,,No,71.3,No,,Riesgo Medio
+TVH00514,2,Ingeniería Química,19,Masculino,No,No,Sí,3.0,No,,No,54.7,No,,Riesgo Medio
+TVH00515,1,Ingeniería Petrolera,17,Masculino,No,No,No,,Sí,,,78.9,No,,Sin Riesgo
+TVH00516,1,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,80.5,No,,Sin Riesgo
+TVH00517,3,Ingeniería Civil,18,Femenino,No,No,No,,No,,,79.3,No,,Sin Riesgo
+TVH00518,1,Ingeniería en Sistemas,17,Masculino,Sí,No,No,,No,,,79.0,No,,Sin Riesgo
+TVH00519,8,Ingeniería Química,20,Masculino,No,Sí,No,,Sí,1059.0,,76.4,Sí,No,Sin Riesgo
+TVH00520,1,Ingeniería en Sistemas,17,Masculino,Sí,No,Sí,1.0,Sí,,Sí,66.3,Sí,,Riesgo Alto
+TVH00521,2,Ingeniería Petrolera,18,Femenino,No,No,No,,Sí,,,87.4,Sí,,Sin Riesgo
+TVH00522,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,Sí,,,80.2,Sí,,Sin Riesgo
+TVH00523,3,Ingeniería Química,18,Femenino,No,Sí,No,,Sí,4403.0,,73.7,No,Sí,Sin Riesgo
+TVH00524,1,Ingeniería Industrial,19,Masculino,No,Sí,Sí,1.0,Sí,3104.0,No,60.0,Sí,No,Riesgo Medio
+TVH00525,5,Ingeniería en Sistemas,19,Femenino,No,Sí,No,,No,4227.0,,79.0,No,Sí,Sin Riesgo
+TVH00526,6,Ingeniería en Sistemas,20,Femenino,No,No,Sí,2.0,No,,No,64.0,No,,Riesgo Medio
+TVH00527,4,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,69.0,No,,Sin Riesgo
+TVH00528,6,Ingeniería Civil,20,Femenino,No,No,Sí,3.0,No,,No,55.0,No,,Riesgo Medio
+TVH00529,3,Ingeniería Petrolera,28,Masculino,No,No,No,,No,,,87.0,No,,Sin Riesgo
+TVH00530,4,Ingeniería Civil,19,Femenino,No,No,No,,Sí,,,82.9,Sí,,Sin Riesgo
+TVH00531,6,Ingeniería Industrial,19,Masculino,No,Sí,No,,No,1100.0,,75.1,Sí,No,Sin Riesgo
+TVH00532,1,Ingeniería Química,17,Masculino,No,No,No,,Sí,,,91.1,No,,Sin Riesgo
+TVH00533,6,Ingeniería Química,28,Masculino,No,No,Sí,2.0,Sí,,No,65.6,Sí,,Riesgo Medio
+TVH00534,2,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,81.9,No,,Sin Riesgo
+TVH00535,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,84.4,No,,Sin Riesgo
+TVH00536,2,Ingeniería Civil,17,Masculino,No,Sí,No,,No,4992.0,,76.2,Sí,Sí,Sin Riesgo
+TVH00537,1,Ingeniería Industrial,19,Masculino,No,Sí,No,,No,16673.0,,75.7,No,Sí,Sin Riesgo
+TVH00538,5,Ingeniería en Sistemas,20,Masculino,No,Sí,No,,No,4423.0,,83.7,No,No,Sin Riesgo
+TVH00539,4,Ingeniería en Sistemas,20,Masculino,No,No,No,,No,,,84.7,No,,Sin Riesgo
+TVH00540,5,Ingeniería Química,20,Masculino,No,No,No,,No,,,76.7,No,,Sin Riesgo
+TVH00541,1,Ingeniería en Sistemas,18,Masculino,No,Sí,No,,Sí,2117.0,,78.6,No,No,Sin Riesgo
+TVH00542,6,Ingeniería Industrial,19,Femenino,No,No,Sí,1.0,Sí,,No,57.5,Sí,,Riesgo Medio
+TVH00543,6,Ingeniería en Sistemas,19,Femenino,No,Sí,Sí,2.0,Sí,7212.0,Sí,73.6,No,No,Riesgo Alto
+TVH00544,8,Ingeniería Química,27,Femenino,No,No,No,,No,,,83.6,No,,Sin Riesgo
+TVH00545,6,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,72.8,Sí,,Sin Riesgo
+TVH00546,2,Ingeniería Química,18,Masculino,No,No,Sí,3.0,No,,No,66.2,No,,Riesgo Medio
+TVH00547,4,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,83.8,No,,Sin Riesgo
+TVH00548,2,Ingeniería Química,18,Masculino,No,No,Sí,2.0,Sí,,Sí,64.2,Sí,,Riesgo Alto
+TVH00549,3,Ingeniería Civil,18,Femenino,No,No,No,,No,,,77.2,No,,Sin Riesgo
+TVH00550,2,Ingeniería en Sistemas,17,Femenino,No,No,Sí,1.0,No,,Sí,66.2,Sí,,Riesgo Alto
+TVH00551,3,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,79.6,No,,Sin Riesgo
+TVH00552,1,Ingeniería en Sistemas,17,Masculino,No,No,Sí,1.0,Sí,,No,54.9,Sí,,Riesgo Medio
+TVH00553,1,Ingeniería en Sistemas,18,Femenino,Sí,No,Sí,1.0,No,,Sí,57.5,Sí,,Riesgo Alto
+TVH00554,2,Ingeniería Industrial,17,Femenino,No,No,No,,Sí,,,82.0,No,,Sin Riesgo
+TVH00555,4,Ingeniería en Sistemas,18,Femenino,No,Sí,Sí,1.0,No,3723.0,No,50.7,No,Sí,Riesgo Medio
+TVH00556,3,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,85.2,No,,Sin Riesgo
+TVH00557,3,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,Sí,,No,56.9,Sí,,Riesgo Medio
+TVH00558,6,Ingeniería en Sistemas,20,Femenino,No,No,No,,No,,,88.3,No,,Sin Riesgo
+TVH00559,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,Sí,,,79.1,No,,Sin Riesgo
+TVH00560,2,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,76.1,No,,Sin Riesgo
+TVH00561,3,Ingeniería Industrial,19,Masculino,No,Sí,Sí,1.0,No,9558.0,No,57.4,Sí,Sí,Riesgo Medio
+TVH00562,3,Ingeniería Industrial,18,Femenino,No,No,Sí,3.0,Sí,,Sí,69.4,Sí,,Riesgo Alto
+TVH00563,5,Ingeniería Petrolera,20,Femenino,No,No,Sí,2.0,Sí,,No,49.4,Sí,,Riesgo Medio
+TVH00564,2,Ingeniería Civil,17,Femenino,No,No,Sí,1.0,No,,No,62.7,No,,Riesgo Medio
+TVH00565,2,Ingeniería Civil,17,Femenino,No,No,Sí,3.0,No,,Sí,59.2,Sí,,Riesgo Alto
+TVH00566,2,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,81.8,No,,Sin Riesgo
+TVH00567,3,Ingeniería Petrolera,19,Masculino,No,No,No,,No,,,81.5,No,,Sin Riesgo
+TVH00568,6,Ingeniería Química,19,Femenino,No,Sí,Sí,1.0,No,5542.0,No,59.4,No,No,Riesgo Medio
+TVH00569,3,Ingeniería Química,18,Masculino,No,Sí,Sí,1.0,No,5712.0,No,78.0,Sí,No,Riesgo Medio
+TVH00570,4,Ingeniería Industrial,18,Femenino,No,Sí,Sí,1.0,No,8653.0,Sí,68.5,No,Sí,Riesgo Alto
+TVH00571,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,82.9,No,,Sin Riesgo
+TVH00572,5,Ingeniería Petrolera,20,Femenino,No,No,No,,No,,,76.9,No,,Sin Riesgo
+TVH00573,3,Ingeniería Industrial,19,Masculino,No,No,No,,No,,,72.0,No,,Sin Riesgo
+TVH00574,7,Ingeniería Civil,20,Femenino,No,Sí,No,,Sí,3494.0,,86.9,Sí,Sí,Sin Riesgo
+TVH00575,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,88.6,No,,Sin Riesgo
+TVH00576,1,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,76.0,Sí,,Sin Riesgo
+TVH00577,4,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,94.9,No,,Sin Riesgo
+TVH00578,4,Ingeniería Industrial,19,Masculino,No,No,No,,No,,,75.9,Sí,,Sin Riesgo
+TVH00579,3,Ingeniería Civil,18,Masculino,No,No,No,,No,,,76.0,No,,Sin Riesgo
+TVH00580,3,Ingeniería Civil,18,Femenino,No,Sí,Sí,2.0,No,4429.0,Sí,59.0,Sí,Sí,Riesgo Alto
+TVH00581,1,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,77.8,No,,Sin Riesgo
+TVH00582,1,Ingeniería en Sistemas,18,Femenino,No,Sí,No,,No,3806.0,,73.7,No,No,Sin Riesgo
+TVH00583,7,Ingeniería Química,20,Masculino,No,Sí,Sí,3.0,Sí,1884.0,Sí,72.4,Sí,No,Riesgo Alto
+TVH00584,3,Ingeniería Industrial,18,Femenino,No,No,No,,Sí,,,74.8,Sí,,Sin Riesgo
+TVH00585,7,Ingeniería en Sistemas,20,Femenino,No,No,No,,No,,,89.7,No,,Sin Riesgo
+TVH00586,1,Ingeniería Civil,17,Femenino,No,No,No,,No,,,81.4,Sí,,Sin Riesgo
+TVH00587,7,Ingeniería Petrolera,20,Femenino,No,Sí,No,,Sí,9046.0,,81.9,No,Sí,Sin Riesgo
+TVH00588,2,Ingeniería Civil,18,Femenino,No,No,Sí,1.0,No,,Sí,52.1,No,,Riesgo Alto
+TVH00589,3,Ingeniería Industrial,19,Femenino,No,No,Sí,2.0,No,,No,65.6,No,,Riesgo Medio
+TVH00590,1,Ingeniería Civil,18,Femenino,No,Sí,No,,Sí,1007.0,,74.8,No,Sí,Sin Riesgo
+TVH00591,4,Ingeniería Industrial,18,Femenino,No,No,Sí,3.0,No,,No,72.7,No,,Riesgo Medio
+TVH00592,2,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,98.2,No,,Sin Riesgo
+TVH00593,9,Ingeniería Petrolera,21,Femenino,No,No,No,,Sí,,,76.4,Sí,,Sin Riesgo
+TVH00594,1,Ingeniería Química,17,Masculino,No,No,Sí,1.0,Sí,,Sí,64.0,Sí,,Riesgo Alto
+TVH00595,1,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,84.4,No,,Sin Riesgo
+TVH00596,2,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,92.9,No,,Sin Riesgo
+TVH00597,1,Ingeniería Civil,19,Femenino,No,No,Sí,3.0,No,,No,58.9,Sí,,Riesgo Medio
+TVH00598,1,Ingeniería Civil,18,Femenino,No,No,Sí,3.0,No,,Sí,71.0,No,,Riesgo Alto
+TVH00599,4,Ingeniería Industrial,19,Femenino,No,No,Sí,1.0,Sí,,No,63.5,Sí,,Riesgo Medio
+TVH00600,1,Ingeniería Petrolera,18,Masculino,No,No,No,,Sí,,,77.0,Sí,,Sin Riesgo
+TVH00601,1,Ingeniería Civil,17,Femenino,No,No,No,,No,,,83.2,Sí,,Sin Riesgo
+TVH00602,5,Ingeniería Civil,21,Femenino,No,Sí,No,,No,4518.0,,78.6,No,Sí,Sin Riesgo
+TVH00603,8,Ingeniería en Sistemas,20,Masculino,Sí,Sí,Sí,1.0,Sí,2690.0,Sí,74.4,Sí,No,Riesgo Alto
+TVH00604,3,Ingeniería Petrolera,18,Femenino,Sí,No,Sí,1.0,Sí,,No,52.6,No,,Riesgo Medio
+TVH00605,3,Ingeniería Química,18,Masculino,No,No,No,,No,,,87.7,Sí,,Sin Riesgo
+TVH00606,4,Ingeniería Industrial,18,Masculino,No,Sí,No,,No,8988.0,,82.9,No,Sí,Sin Riesgo
+TVH00607,2,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,74.0,Sí,,Sin Riesgo
+TVH00608,3,Ingeniería Civil,20,Masculino,No,No,No,,No,,,90.5,No,,Sin Riesgo
+TVH00609,2,Ingeniería Química,17,Masculino,No,Sí,No,,No,5708.0,,86.7,Sí,Sí,Sin Riesgo
+TVH00610,6,Ingeniería Química,27,Femenino,No,No,No,,No,,,75.6,No,,Sin Riesgo
+TVH00611,1,Ingeniería en Sistemas,17,Masculino,No,No,Sí,1.0,No,,No,74.4,Sí,,Riesgo Medio
+TVH00612,2,Ingeniería Petrolera,17,Masculino,No,Sí,No,,No,4229.0,,78.6,Sí,Sí,Sin Riesgo
+TVH00613,10,Ingeniería Química,22,Masculino,No,No,No,,Sí,,,79.0,Sí,,Sin Riesgo
+TVH00614,5,Ingeniería Industrial,19,Femenino,No,Sí,No,,No,5434.0,,77.4,Sí,No,Sin Riesgo
+TVH00615,7,Ingeniería Industrial,20,Femenino,No,Sí,No,,Sí,3024.0,,69.0,Sí,No,Sin Riesgo
+TVH00616,6,Ingeniería Industrial,20,Masculino,No,No,No,,No,,,79.4,No,,Sin Riesgo
+TVH00617,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,81.0,No,,Sin Riesgo
+TVH00618,6,Ingeniería Civil,19,Masculino,No,Sí,Sí,1.0,Sí,1110.0,No,61.2,Sí,No,Riesgo Medio
+TVH00619,2,Ingeniería Industrial,17,Masculino,No,No,Sí,1.0,No,,Sí,67.0,No,,Riesgo Alto
+TVH00620,7,Ingeniería Petrolera,20,Femenino,No,Sí,No,,Sí,5428.0,,74.8,Sí,Sí,Sin Riesgo
+TVH00621,4,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,77.6,No,,Sin Riesgo
+TVH00622,2,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,87.2,No,,Sin Riesgo
+TVH00623,7,Ingeniería Civil,20,Masculino,Sí,Sí,Sí,1.0,Sí,4412.0,No,64.5,Sí,Sí,Riesgo Medio
+TVH00624,1,Ingeniería Química,17,Masculino,No,No,No,,No,,,90.1,Sí,,Sin Riesgo
+TVH00625,6,Ingeniería Industrial,19,Femenino,No,Sí,Sí,1.0,No,2910.0,Sí,63.7,Sí,Sí,Riesgo Alto
+TVH00626,2,Ingeniería Industrial,17,Masculino,No,No,Sí,1.0,No,,No,55.8,Sí,,Riesgo Medio
+TVH00627,2,Ingeniería Civil,17,Masculino,Sí,No,No,,No,,,76.4,Sí,,Sin Riesgo
+TVH00628,2,Ingeniería Química,17,Femenino,No,No,Sí,2.0,No,,No,72.2,No,,Riesgo Medio
+TVH00629,5,Ingeniería Petrolera,20,Masculino,No,No,Sí,2.0,Sí,,No,77.9,Sí,,Riesgo Medio
+TVH00630,4,Ingeniería Petrolera,18,Femenino,No,Sí,No,,No,5253.0,,84.2,No,No,Sin Riesgo
+TVH00631,3,Ingeniería Industrial,18,Masculino,No,Sí,No,,No,1399.0,,76.0,No,No,Sin Riesgo
+TVH00632,2,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,81.0,No,,Sin Riesgo
+TVH00633,3,Ingeniería en Sistemas,18,Femenino,Sí,No,No,,No,,,82.4,No,,Sin Riesgo
+TVH00634,2,Ingeniería Civil,17,Masculino,No,No,No,,Sí,,,83.2,Sí,,Sin Riesgo
+TVH00635,4,Ingeniería en Sistemas,18,Masculino,No,No,Sí,1.0,No,,No,56.9,No,,Riesgo Medio
+TVH00636,4,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,70.3,No,,Sin Riesgo
+TVH00637,2,Ingeniería Civil,19,Masculino,No,No,No,,No,,,86.8,Sí,,Sin Riesgo
+TVH00638,3,Ingeniería Petrolera,19,Masculino,No,Sí,No,,Sí,2681.0,,81.7,Sí,No,Sin Riesgo
+TVH00639,3,Ingeniería Industrial,18,Masculino,No,No,Sí,2.0,No,,No,63.6,Sí,,Riesgo Medio
+TVH00640,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,Sí,,,72.7,No,,Sin Riesgo
+TVH00641,4,Ingeniería en Sistemas,18,Masculino,No,Sí,No,,Sí,5069.0,,87.4,Sí,No,Sin Riesgo
+TVH00642,4,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,71.5,No,,Sin Riesgo
+TVH00643,9,Ingeniería Química,21,Femenino,Sí,Sí,No,,No,4169.0,,77.8,Sí,Sí,Sin Riesgo
+TVH00644,1,Ingeniería en Sistemas,17,Masculino,No,No,Sí,2.0,No,,No,66.2,Sí,,Riesgo Medio
+TVH00645,6,Ingeniería Civil,20,Masculino,No,No,No,,No,,,81.8,Sí,,Sin Riesgo
+TVH00646,7,Ingeniería Industrial,22,Femenino,No,No,Sí,1.0,No,,No,59.8,No,,Riesgo Medio
+TVH00647,7,Ingeniería Petrolera,20,Femenino,No,No,Sí,1.0,No,,No,58.7,Sí,,Riesgo Medio
+TVH00648,1,Ingeniería Química,17,Masculino,No,No,No,,No,,,86.8,No,,Sin Riesgo
+TVH00649,1,Ingeniería Industrial,17,Masculino,No,No,Sí,2.0,No,,No,51.9,No,,Riesgo Medio
+TVH00650,1,Ingeniería Civil,18,Masculino,No,No,Sí,1.0,No,,No,78.0,No,,Riesgo Medio
+TVH00651,1,Ingeniería Civil,17,Femenino,No,No,No,,No,,,82.6,No,,Sin Riesgo
+TVH00652,3,Ingeniería Industrial,20,Masculino,No,Sí,Sí,1.0,Sí,4061.0,Sí,63.9,Sí,No,Riesgo Alto
+TVH00653,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,Sí,,,80.8,Sí,,Sin Riesgo
+TVH00654,3,Ingeniería en Sistemas,20,Femenino,Sí,No,Sí,1.0,No,,No,66.8,No,,Riesgo Medio
+TVH00655,5,Ingeniería Industrial,19,Femenino,No,No,Sí,1.0,No,,No,57.0,No,,Riesgo Medio
+TVH00656,6,Ingeniería en Sistemas,19,Masculino,Sí,Sí,No,,No,1898.0,,69.2,No,No,Sin Riesgo
+TVH00657,7,Ingeniería Industrial,22,Femenino,No,Sí,Sí,2.0,No,5773.0,No,53.7,Sí,Sí,Riesgo Medio
+TVH00658,7,Ingeniería en Sistemas,20,Femenino,No,No,No,,Sí,,,82.2,No,,Sin Riesgo
+TVH00659,1,Ingeniería Industrial,17,Femenino,No,No,Sí,1.0,No,,No,52.3,Sí,,Riesgo Medio
+TVH00660,2,Ingeniería Civil,18,Femenino,No,No,No,,No,,,85.7,No,,Sin Riesgo
+TVH00661,10,Ingeniería Petrolera,22,Femenino,No,No,No,,Sí,,,81.1,Sí,,Sin Riesgo
+TVH00662,1,Ingeniería Civil,17,Masculino,No,No,No,,Sí,,,81.8,Sí,,Sin Riesgo
+TVH00663,5,Ingeniería Química,19,Femenino,Sí,No,Sí,1.0,Sí,,No,44.7,No,,Riesgo Medio
+TVH00664,5,Ingeniería en Sistemas,20,Femenino,No,Sí,No,,No,8431.0,,89.5,Sí,No,Sin Riesgo
+TVH00665,6,Ingeniería en Sistemas,19,Femenino,Sí,No,No,,No,,,81.6,No,,Sin Riesgo
+TVH00666,7,Ingeniería Industrial,21,Femenino,No,No,No,,No,,,80.7,No,,Sin Riesgo
+TVH00667,6,Ingeniería Química,20,Femenino,No,No,No,,No,,,81.5,Sí,,Sin Riesgo
+TVH00668,3,Ingeniería Civil,19,Masculino,No,Sí,No,,No,2792.0,,81.3,No,No,Sin Riesgo
+TVH00669,6,Ingeniería en Sistemas,19,Femenino,No,Sí,Sí,2.0,No,2643.0,No,62.8,Sí,No,Riesgo Medio
+TVH00670,5,Ingeniería Civil,19,Femenino,No,Sí,No,,No,4766.0,,73.4,Sí,Sí,Sin Riesgo
+TVH00671,2,Ingeniería en Sistemas,19,Masculino,No,Sí,Sí,1.0,No,1557.0,No,58.3,No,Sí,Riesgo Medio
+TVH00672,3,Ingeniería Civil,18,Femenino,No,No,Sí,2.0,No,,No,65.4,Sí,,Riesgo Medio
+TVH00673,8,Ingeniería Petrolera,20,Femenino,No,Sí,No,,No,2980.0,,76.5,No,No,Sin Riesgo
+TVH00674,2,Ingeniería Química,17,Femenino,No,No,No,,No,,,83.1,Sí,,Sin Riesgo
+TVH00675,4,Ingeniería en Sistemas,20,Femenino,Sí,No,No,,Sí,,,86.4,Sí,,Sin Riesgo
+TVH00676,4,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,76.8,No,,Sin Riesgo
+TVH00677,2,Ingeniería Petrolera,18,Masculino,No,Sí,Sí,1.0,Sí,2560.0,No,73.4,Sí,No,Riesgo Medio
+TVH00678,9,Ingeniería Química,21,Femenino,No,No,No,,Sí,,,83.3,Sí,,Sin Riesgo
+TVH00679,3,Ingeniería Química,19,Masculino,No,No,Sí,1.0,No,,Sí,45.2,Sí,,Riesgo Alto
+TVH00680,7,Ingeniería Petrolera,20,Masculino,No,No,No,,No,,,79.7,No,,Sin Riesgo
+TVH00681,1,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,71.0,No,,Sin Riesgo
+TVH00682,3,Ingeniería Petrolera,20,Masculino,No,Sí,No,,No,1472.0,,77.9,No,Sí,Sin Riesgo
+TVH00683,5,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,80.0,No,,Sin Riesgo
+TVH00684,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,Sí,,,80.1,Sí,,Sin Riesgo
+TVH00685,5,Ingeniería Civil,20,Masculino,No,Sí,No,,No,1477.0,,82.5,No,Sí,Sin Riesgo
+TVH00686,4,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,No,,No,65.4,No,,Riesgo Medio
+TVH00687,3,Ingeniería en Sistemas,20,Femenino,No,No,No,,No,,,90.5,No,,Sin Riesgo
+TVH00688,5,Ingeniería Química,20,Femenino,No,No,Sí,1.0,Sí,,Sí,67.2,Sí,,Riesgo Alto
+TVH00689,8,Ingeniería Industrial,20,Masculino,No,Sí,No,,No,5090.0,,91.7,No,No,Sin Riesgo
+TVH00690,8,Ingeniería Química,22,Femenino,No,No,Sí,2.0,No,,No,72.9,Sí,,Riesgo Medio
+TVH00691,3,Ingeniería Industrial,18,Masculino,No,Sí,Sí,1.0,Sí,7504.0,No,53.3,Sí,Sí,Riesgo Medio
+TVH00692,3,Ingeniería Industrial,18,Femenino,No,Sí,No,,No,9615.0,,77.1,Sí,Sí,Sin Riesgo
+TVH00693,2,Ingeniería en Sistemas,18,Masculino,No,No,Sí,2.0,No,,No,70.9,No,,Riesgo Medio
+TVH00694,5,Ingeniería Química,20,Masculino,No,No,No,,Sí,,,83.4,Sí,,Sin Riesgo
+TVH00695,1,Ingeniería Civil,17,Femenino,No,No,No,,No,,,87.5,No,,Sin Riesgo
+TVH00696,3,Ingeniería en Sistemas,19,Masculino,No,Sí,No,,No,2999.0,,80.6,No,No,Sin Riesgo
+TVH00697,1,Ingeniería Química,26,Masculino,No,No,No,,No,,,86.1,No,,Sin Riesgo
+TVH00698,7,Ingeniería en Sistemas,21,Masculino,No,No,No,,No,,,85.9,Sí,,Sin Riesgo
+TVH00699,1,Ingeniería Civil,18,Masculino,No,No,Sí,2.0,No,,No,55.0,No,,Riesgo Medio
+TVH00700,8,Ingeniería en Sistemas,20,Masculino,Sí,Sí,Sí,2.0,No,9543.0,Sí,60.0,No,Sí,Riesgo Alto
+TVH00701,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,83.8,No,,Sin Riesgo
+TVH00702,6,Ingeniería en Sistemas,20,Femenino,No,No,No,,No,,,74.7,No,,Sin Riesgo
+TVH00703,8,Ingeniería Petrolera,20,Masculino,No,Sí,No,,Sí,7463.0,,71.9,No,No,Sin Riesgo
+TVH00704,6,Ingeniería Industrial,27,Masculino,No,No,No,,No,,,78.5,No,,Sin Riesgo
+TVH00705,4,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,74.3,No,,Sin Riesgo
+TVH00706,6,Ingeniería en Sistemas,19,Masculino,No,No,Sí,2.0,No,,Sí,55.5,Sí,,Riesgo Alto
+TVH00707,3,Ingeniería Industrial,19,Femenino,No,No,Sí,1.0,No,,No,56.4,No,,Riesgo Medio
+TVH00708,3,Ingeniería Civil,18,Masculino,No,No,No,,Sí,,,79.0,Sí,,Sin Riesgo
+TVH00709,2,Ingeniería Industrial,17,Femenino,Sí,No,Sí,2.0,No,,No,59.9,No,,Riesgo Medio
+TVH00710,2,Ingeniería Industrial,19,Masculino,No,No,No,,No,,,84.1,Sí,,Sin Riesgo
+TVH00711,3,Ingeniería Industrial,18,Masculino,No,Sí,Sí,2.0,No,6796.0,Sí,60.2,No,Sí,Riesgo Alto
+TVH00712,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,91.2,No,,Sin Riesgo
+TVH00713,6,Ingeniería Civil,20,Masculino,No,No,Sí,2.0,No,,No,65.4,No,,Riesgo Medio
+TVH00714,1,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,87.9,Sí,,Sin Riesgo
+TVH00715,6,Ingeniería Civil,20,Masculino,No,No,Sí,1.0,No,,No,66.1,No,,Riesgo Medio
+TVH00716,1,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,73.2,No,,Sin Riesgo
+TVH00717,6,Ingeniería en Sistemas,19,Masculino,No,Sí,No,,No,9919.0,,76.2,No,No,Sin Riesgo
+TVH00718,8,Ingeniería Petrolera,20,Masculino,Sí,No,No,,No,,,78.3,Sí,,Sin Riesgo
+TVH00719,2,Ingeniería Petrolera,17,Femenino,No,No,No,,No,,,83.9,No,,Sin Riesgo
+TVH00720,4,Ingeniería Química,18,Femenino,No,Sí,No,,No,5196.0,,81.8,No,No,Sin Riesgo
+TVH00721,6,Ingeniería Química,19,Masculino,No,No,Sí,1.0,Sí,,No,68.7,Sí,,Riesgo Medio
+TVH00722,4,Ingeniería en Sistemas,18,Femenino,No,No,Sí,2.0,No,,Sí,58.4,No,,Riesgo Alto
+TVH00723,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,82.1,No,,Sin Riesgo
+TVH00724,3,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,75.3,No,,Sin Riesgo
+TVH00725,3,Ingeniería en Sistemas,19,Femenino,No,No,No,,Sí,,,90.8,Sí,,Sin Riesgo
+TVH00726,3,Ingeniería Civil,18,Femenino,Sí,No,Sí,2.0,No,,Sí,55.7,Sí,,Riesgo Alto
+TVH00727,5,Ingeniería Química,19,Femenino,No,No,No,,No,,,76.0,Sí,,Sin Riesgo
+TVH00728,4,Ingeniería Civil,18,Femenino,No,Sí,Sí,1.0,No,1957.0,No,77.2,Sí,No,Riesgo Medio
+TVH00729,4,Ingeniería Industrial,18,Femenino,No,No,Sí,3.0,No,,No,67.6,No,,Riesgo Medio
+TVH00730,3,Ingeniería Civil,18,Masculino,No,No,No,,No,,,78.1,Sí,,Sin Riesgo
+TVH00731,8,Ingeniería en Sistemas,20,Masculino,No,No,Sí,2.0,No,,No,68.8,No,,Riesgo Medio
+TVH00732,1,Ingeniería Química,17,Masculino,No,No,Sí,2.0,No,,No,63.0,No,,Riesgo Medio
+TVH00733,1,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,81.3,No,,Sin Riesgo
+TVH00734,7,Ingeniería Petrolera,20,Masculino,No,No,No,,No,,,72.6,No,,Sin Riesgo
+TVH00735,8,Ingeniería Petrolera,22,Masculino,No,Sí,No,,No,5827.0,,74.6,No,No,Sin Riesgo
+TVH00736,2,Ingeniería Civil,17,Masculino,Sí,No,Sí,2.0,No,,No,64.1,No,,Riesgo Medio
+TVH00737,3,Ingeniería Química,28,Femenino,No,Sí,No,,No,2779.0,,72.1,Sí,No,Sin Riesgo
+TVH00738,1,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,85.9,No,,Sin Riesgo
+TVH00739,1,Ingeniería Industrial,18,Masculino,No,Sí,Sí,2.0,No,1354.0,No,64.0,No,Sí,Riesgo Medio
+TVH00740,4,Ingeniería en Sistemas,28,Femenino,No,No,No,,Sí,,,87.7,Sí,,Sin Riesgo
+TVH00741,7,Ingeniería en Sistemas,21,Femenino,No,No,Sí,1.0,No,,Sí,61.0,No,,Riesgo Alto
+TVH00742,5,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,83.3,No,,Sin Riesgo
+TVH00743,3,Ingeniería Petrolera,19,Masculino,No,No,No,,No,,,78.1,Sí,,Sin Riesgo
+TVH00744,4,Ingeniería Industrial,18,Masculino,No,No,No,,Sí,,,80.2,No,,Sin Riesgo
+TVH00745,2,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,88.2,No,,Sin Riesgo
+TVH00746,5,Ingeniería Civil,20,Masculino,No,No,Sí,1.0,No,,No,70.8,No,,Riesgo Medio
+TVH00747,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,83.9,No,,Sin Riesgo
+TVH00748,1,Ingeniería Química,18,Masculino,Sí,No,No,,No,,,71.0,No,,Sin Riesgo
+TVH00749,1,Ingeniería Química,17,Masculino,No,No,Sí,1.0,No,,No,61.5,No,,Riesgo Medio
+TVH00750,5,Ingeniería Civil,19,Femenino,No,No,No,,No,,,82.6,No,,Sin Riesgo
+TVH00751,1,Ingeniería Química,17,Masculino,No,No,No,,No,,,86.4,No,,Sin Riesgo
+TVH00752,1,Ingeniería Química,19,Masculino,No,No,No,,Sí,,,79.3,No,,Sin Riesgo
+TVH00753,2,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,69.7,No,,Sin Riesgo
+TVH00754,1,Ingeniería Química,19,Masculino,No,No,Sí,2.0,No,,Sí,64.0,No,,Riesgo Alto
+TVH00755,3,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,No,,No,46.8,No,,Riesgo Medio
+TVH00756,2,Ingeniería Industrial,17,Masculino,No,Sí,No,,No,4216.0,,75.6,No,Sí,Sin Riesgo
+TVH00757,1,Ingeniería en Sistemas,17,Femenino,No,Sí,Sí,1.0,No,1124.0,No,62.4,Sí,No,Riesgo Medio
+TVH00758,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,85.6,No,,Sin Riesgo
+TVH00759,1,Ingeniería Civil,19,Masculino,No,No,No,,No,,,70.7,No,,Sin Riesgo
+TVH00760,2,Ingeniería en Sistemas,17,Masculino,No,No,Sí,1.0,No,,No,61.1,Sí,,Riesgo Medio
+TVH00761,6,Ingeniería Industrial,19,Masculino,No,Sí,No,,No,2968.0,,83.6,Sí,No,Sin Riesgo
+TVH00762,10,Ingeniería Petrolera,21,Femenino,No,No,No,,No,,,86.6,No,,Sin Riesgo
+TVH00763,5,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,77.9,No,,Sin Riesgo
+TVH00764,4,Ingeniería en Sistemas,18,Femenino,No,No,No,,Sí,,,85.5,Sí,,Sin Riesgo
+TVH00765,8,Ingeniería Petrolera,20,Masculino,No,No,Sí,1.0,Sí,,No,52.3,Sí,,Riesgo Medio
+TVH00766,2,Ingeniería Industrial,18,Masculino,No,No,Sí,3.0,No,,Sí,68.7,Sí,,Riesgo Alto
+TVH00767,5,Ingeniería Química,20,Masculino,No,No,No,,No,,,90.7,No,,Sin Riesgo
+TVH00768,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,84.2,Sí,,Sin Riesgo
+TVH00769,5,Ingeniería Civil,19,Masculino,No,No,No,,No,,,83.0,No,,Sin Riesgo
+TVH00770,4,Ingeniería Industrial,18,Femenino,No,No,Sí,2.0,No,,No,75.5,Sí,,Riesgo Medio
+TVH00771,2,Ingeniería Industrial,17,Femenino,Sí,No,Sí,1.0,No,,No,76.5,Sí,,Riesgo Medio
+TVH00772,3,Ingeniería Industrial,19,Masculino,No,Sí,Sí,1.0,No,7664.0,No,68.8,No,Sí,Riesgo Medio
+TVH00773,2,Ingeniería Industrial,17,Masculino,No,Sí,Sí,2.0,Sí,5262.0,No,64.9,No,No,Riesgo Medio
+TVH00774,9,Ingeniería Petrolera,22,Femenino,No,Sí,No,,No,5148.0,,80.3,No,Sí,Sin Riesgo
+TVH00775,2,Ingeniería Industrial,18,Masculino,No,No,Sí,1.0,Sí,,No,64.5,Sí,,Riesgo Medio
+TVH00776,4,Ingeniería Química,18,Masculino,No,No,Sí,2.0,No,,No,75.8,No,,Riesgo Medio
+TVH00777,4,Ingeniería Civil,19,Femenino,No,No,No,,No,,,89.5,No,,Sin Riesgo
+TVH00778,3,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,84.4,No,,Sin Riesgo
+TVH00779,5,Ingeniería Civil,19,Masculino,No,Sí,No,,No,4993.0,,83.0,No,Sí,Sin Riesgo
+TVH00780,2,Ingeniería en Sistemas,18,Femenino,No,No,No,,Sí,,,90.4,Sí,,Sin Riesgo
+TVH00781,6,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,79.7,No,,Sin Riesgo
+TVH00782,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,82.5,No,,Sin Riesgo
+TVH00783,3,Ingeniería en Sistemas,20,Masculino,No,No,No,,No,,,78.4,No,,Sin Riesgo
+TVH00784,7,Ingeniería Química,20,Masculino,No,No,Sí,1.0,No,,No,61.8,No,,Riesgo Medio
+TVH00785,6,Ingeniería en Sistemas,19,Masculino,No,Sí,Sí,1.0,No,2157.0,Sí,69.5,Sí,Sí,Riesgo Alto
+TVH00786,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,85.4,No,,Sin Riesgo
+TVH00787,2,Ingeniería Química,19,Femenino,No,No,Sí,2.0,Sí,,Sí,60.7,No,,Riesgo Alto
+TVH00788,4,Ingeniería Química,18,Femenino,No,No,No,,No,,,77.6,Sí,,Sin Riesgo
+TVH00789,4,Ingeniería Industrial,19,Masculino,No,Sí,Sí,3.0,No,1143.0,Sí,53.4,No,No,Riesgo Alto
+TVH00790,2,Ingeniería Petrolera,17,Masculino,No,No,No,,No,,,86.6,Sí,,Sin Riesgo
+TVH00791,4,Ingeniería Civil,19,Masculino,No,Sí,No,,No,3592.0,,81.7,No,No,Sin Riesgo
+TVH00792,5,Ingeniería Civil,19,Masculino,No,Sí,No,,No,1519.0,,72.5,No,Sí,Sin Riesgo
+TVH00793,6,Ingeniería Industrial,19,Masculino,No,No,Sí,1.0,Sí,,No,65.3,No,,Riesgo Medio
+TVH00794,4,Ingeniería Petrolera,18,Femenino,Sí,No,Sí,2.0,Sí,,No,67.0,Sí,,Riesgo Medio
+TVH00795,8,Ingeniería en Sistemas,22,Masculino,No,Sí,Sí,3.0,No,6975.0,Sí,64.1,No,No,Riesgo Alto
+TVH00796,9,Ingeniería en Sistemas,21,Masculino,No,Sí,Sí,2.0,No,2334.0,Sí,62.0,Sí,Sí,Riesgo Alto
+TVH00797,2,Ingeniería Petrolera,17,Masculino,No,No,No,,No,,,83.1,No,,Sin Riesgo
+TVH00798,1,Ingeniería Petrolera,17,Masculino,No,Sí,Sí,2.0,No,15877.0,No,69.2,No,Sí,Riesgo Medio
+TVH00799,5,Ingeniería Civil,19,Femenino,No,No,No,,No,,,83.7,No,,Sin Riesgo
+TVH00800,7,Ingeniería Petrolera,20,Masculino,No,Sí,No,,No,1504.0,,84.9,Sí,Sí,Sin Riesgo
+TVH00801,4,Ingeniería Civil,18,Masculino,No,No,No,,Sí,,,89.0,Sí,,Sin Riesgo
+TVH00802,6,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,72.3,No,,Sin Riesgo
+TVH00803,7,Ingeniería en Sistemas,21,Femenino,No,No,No,,No,,,85.0,No,,Sin Riesgo
+TVH00804,3,Ingeniería Química,18,Femenino,No,No,Sí,1.0,No,,No,70.7,No,,Riesgo Medio
+TVH00805,3,Ingeniería Industrial,18,Femenino,Sí,No,No,,Sí,,,77.3,Sí,,Sin Riesgo
+TVH00806,5,Ingeniería Petrolera,20,Femenino,No,No,No,,No,,,84.2,No,,Sin Riesgo
+TVH00807,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,72.3,No,,Sin Riesgo
+TVH00808,6,Ingeniería Civil,20,Masculino,No,Sí,No,,Sí,17124.0,,77.7,No,No,Sin Riesgo
+TVH00809,7,Ingeniería Petrolera,20,Masculino,No,No,No,,Sí,,,76.2,Sí,,Sin Riesgo
+TVH00810,4,Ingeniería Química,19,Femenino,No,Sí,Sí,1.0,No,9597.0,No,75.6,No,No,Riesgo Medio
+TVH00811,1,Ingeniería en Sistemas,17,Femenino,No,No,Sí,1.0,Sí,,No,75.6,Sí,,Riesgo Medio
+TVH00812,8,Ingeniería Industrial,20,Masculino,No,No,No,,No,,,81.2,No,,Sin Riesgo
+TVH00813,4,Ingeniería Industrial,20,Masculino,No,Sí,No,,No,9992.0,,83.1,No,Sí,Sin Riesgo
+TVH00814,6,Ingeniería en Sistemas,20,Masculino,No,Sí,Sí,1.0,No,2960.0,No,57.2,No,No,Riesgo Medio
+TVH00815,7,Ingeniería Petrolera,20,Femenino,No,No,No,,No,,,89.8,Sí,,Sin Riesgo
+TVH00816,5,Ingeniería Petrolera,19,Masculino,No,Sí,No,,No,5132.0,,80.7,No,Sí,Sin Riesgo
+TVH00817,9,Ingeniería Química,21,Masculino,No,No,No,,No,,,83.6,Sí,,Sin Riesgo
+TVH00818,6,Ingeniería Industrial,20,Masculino,No,No,Sí,1.0,No,,No,60.9,Sí,,Riesgo Medio
+TVH00819,2,Ingeniería Petrolera,19,Femenino,No,No,No,,No,,,87.7,No,,Sin Riesgo
+TVH00820,9,Ingeniería Petrolera,22,Masculino,No,No,No,,No,,,81.0,No,,Sin Riesgo
+TVH00821,1,Ingeniería Industrial,17,Masculino,No,No,No,,Sí,,,91.3,Sí,,Sin Riesgo
+TVH00822,1,Ingeniería Química,18,Masculino,No,No,No,,No,,,75.2,No,,Sin Riesgo
+TVH00823,4,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,Sí,,No,62.3,Sí,,Riesgo Medio
+TVH00824,2,Ingeniería Química,17,Masculino,No,No,No,,No,,,84.4,No,,Sin Riesgo
+TVH00825,3,Ingeniería Petrolera,18,Masculino,No,Sí,No,,No,1255.0,,78.3,No,Sí,Sin Riesgo
+TVH00826,4,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,84.8,Sí,,Sin Riesgo
+TVH00827,5,Ingeniería Industrial,20,Masculino,Sí,No,No,,No,,,77.9,No,,Sin Riesgo
+TVH00828,6,Ingeniería Industrial,20,Masculino,No,Sí,Sí,3.0,No,2604.0,Sí,61.4,No,Sí,Riesgo Alto
+TVH00829,1,Ingeniería Industrial,17,Femenino,No,No,Sí,3.0,No,,No,53.4,No,,Riesgo Medio
+TVH00830,4,Ingeniería en Sistemas,20,Masculino,No,No,Sí,2.0,No,,Sí,66.6,No,,Riesgo Alto
+TVH00831,4,Ingeniería Industrial,18,Femenino,No,Sí,No,,No,4663.0,,74.0,No,No,Sin Riesgo
+TVH00832,2,Ingeniería Industrial,17,Femenino,No,No,No,,Sí,,,83.5,Sí,,Sin Riesgo
+TVH00833,8,Ingeniería Industrial,20,Femenino,No,No,No,,Sí,,,77.7,Sí,,Sin Riesgo
+TVH00834,6,Ingeniería en Sistemas,20,Masculino,No,No,No,,No,,,87.1,No,,Sin Riesgo
+TVH00835,2,Ingeniería en Sistemas,17,Femenino,No,No,Sí,1.0,No,,No,60.0,Sí,,Riesgo Medio
+TVH00836,3,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,72.4,No,,Sin Riesgo
+TVH00837,8,Ingeniería en Sistemas,21,Femenino,Sí,No,No,,No,,,79.6,Sí,,Sin Riesgo
+TVH00838,8,Ingeniería Civil,22,Femenino,No,No,Sí,1.0,No,,Sí,55.3,Sí,,Riesgo Alto
+TVH00839,6,Ingeniería Civil,19,Femenino,No,Sí,Sí,1.0,Sí,1273.0,No,57.5,Sí,No,Riesgo Medio
+TVH00840,2,Ingeniería Industrial,17,Masculino,No,No,Sí,1.0,No,,Sí,63.2,No,,Riesgo Alto
+TVH00841,1,Ingeniería Química,19,Femenino,No,No,No,,No,,,86.4,No,,Sin Riesgo
+TVH00842,3,Ingeniería Petrolera,19,Femenino,No,No,No,,No,,,88.9,No,,Sin Riesgo
+TVH00843,6,Ingeniería Química,20,Femenino,No,No,No,,Sí,,,77.1,Sí,,Sin Riesgo
+TVH00844,4,Ingeniería en Sistemas,18,Masculino,No,No,No,,Sí,,,70.1,No,,Sin Riesgo
+TVH00845,1,Ingeniería en Sistemas,19,Masculino,No,No,Sí,1.0,No,,No,58.5,No,,Riesgo Medio
+TVH00846,7,Ingeniería en Sistemas,20,Masculino,Sí,Sí,No,,No,1677.0,,83.2,Sí,No,Sin Riesgo
+TVH00847,1,Ingeniería Civil,19,Femenino,No,No,No,,No,,,80.9,No,,Sin Riesgo
+TVH00848,1,Ingeniería Petrolera,17,Femenino,No,Sí,Sí,2.0,No,1555.0,No,57.9,Sí,No,Riesgo Medio
+TVH00849,8,Ingeniería en Sistemas,22,Masculino,No,No,Sí,1.0,No,,No,60.7,No,,Riesgo Medio
+TVH00850,2,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,77.7,No,,Sin Riesgo
+TVH00851,4,Ingeniería Química,18,Femenino,No,No,No,,Sí,,,86.0,No,,Sin Riesgo
+TVH00852,2,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,86.9,No,,Sin Riesgo
+TVH00853,7,Ingeniería Industrial,20,Masculino,No,No,Sí,1.0,No,,No,55.5,No,,Riesgo Medio
+TVH00854,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,82.3,Sí,,Sin Riesgo
+TVH00855,4,Ingeniería Petrolera,18,Masculino,No,No,No,,Sí,,,80.6,Sí,,Sin Riesgo
+TVH00856,1,Ingeniería en Sistemas,19,Masculino,No,No,Sí,1.0,No,,No,54.7,No,,Riesgo Medio
+TVH00857,6,Ingeniería Civil,19,Femenino,No,No,Sí,2.0,No,,No,66.1,No,,Riesgo Medio
+TVH00858,3,Ingeniería Química,19,Masculino,No,No,No,,No,,,75.2,No,,Sin Riesgo
+TVH00859,6,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,78.6,No,,Sin Riesgo
+TVH00860,8,Ingeniería Civil,21,Masculino,No,No,Sí,1.0,No,,No,64.7,No,,Riesgo Medio
+TVH00861,2,Ingeniería Industrial,19,Femenino,No,No,Sí,2.0,No,,No,54.1,No,,Riesgo Medio
+TVH00862,8,Ingeniería Química,20,Femenino,No,No,No,,No,,,83.9,No,,Sin Riesgo
+TVH00863,7,Ingeniería Química,20,Masculino,No,No,No,,Sí,,,71.4,Sí,,Sin Riesgo
+TVH00864,6,Ingeniería Industrial,20,Masculino,No,No,No,,Sí,,,74.6,Sí,,Sin Riesgo
+TVH00865,1,Ingeniería Petrolera,17,Masculino,No,No,Sí,2.0,No,,Sí,66.4,No,,Riesgo Alto
+TVH00866,3,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,80.1,No,,Sin Riesgo
+TVH00867,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,91.1,No,,Sin Riesgo
+TVH00868,1,Ingeniería Química,18,Masculino,No,No,No,,Sí,,,77.6,Sí,,Sin Riesgo
+TVH00869,2,Ingeniería Civil,18,Masculino,No,No,Sí,1.0,No,,No,58.5,No,,Riesgo Medio
+TVH00870,6,Ingeniería Civil,19,Femenino,No,No,No,,No,,,72.0,No,,Sin Riesgo
+TVH00871,3,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,79.2,No,,Sin Riesgo
+TVH00872,2,Ingeniería Petrolera,17,Masculino,No,No,Sí,2.0,No,,Sí,54.3,Sí,,Riesgo Alto
+TVH00873,2,Ingeniería Industrial,17,Femenino,No,No,Sí,1.0,No,,Sí,76.0,No,,Riesgo Alto
+TVH00874,4,Ingeniería Química,18,Femenino,No,No,No,,No,,,82.6,No,,Sin Riesgo
+TVH00875,1,Ingeniería Petrolera,18,Femenino,No,Sí,No,,No,1038.0,,81.8,No,Sí,Sin Riesgo
+TVH00876,7,Ingeniería Petrolera,20,Femenino,No,No,Sí,3.0,No,,Sí,60.0,No,,Riesgo Alto
+TVH00877,6,Ingeniería Química,19,Masculino,Sí,Sí,No,,No,2078.0,,76.3,Sí,No,Sin Riesgo
+TVH00878,1,Ingeniería Petrolera,18,Masculino,No,Sí,Sí,1.0,Sí,4513.0,Sí,56.3,No,No,Riesgo Alto
+TVH00879,3,Ingeniería Civil,18,Masculino,No,No,No,,No,,,82.3,No,,Sin Riesgo
+TVH00880,5,Ingeniería Industrial,19,Masculino,No,Sí,No,,No,1242.0,,69.0,No,Sí,Sin Riesgo
+TVH00881,6,Ingeniería Industrial,19,Masculino,No,Sí,No,,No,3749.0,,80.4,No,Sí,Sin Riesgo
+TVH00882,7,Ingeniería Petrolera,21,Femenino,Sí,No,No,,Sí,,,74.5,Sí,,Sin Riesgo
+TVH00883,4,Ingeniería en Sistemas,18,Masculino,No,No,Sí,1.0,No,,No,64.3,No,,Riesgo Medio
+TVH00884,7,Ingeniería en Sistemas,21,Masculino,No,Sí,Sí,1.0,Sí,3467.0,Sí,56.5,Sí,No,Riesgo Alto
+TVH00885,1,Ingeniería Petrolera,17,Femenino,No,Sí,No,,Sí,2671.0,,81.6,Sí,No,Sin Riesgo
+TVH00886,4,Ingeniería Civil,18,Masculino,No,Sí,Sí,3.0,Sí,2399.0,No,60.1,No,No,Riesgo Medio
+TVH00887,5,Ingeniería Industrial,20,Femenino,No,No,No,,No,,,82.0,No,,Sin Riesgo
+TVH00888,2,Ingeniería Petrolera,18,Femenino,Sí,No,Sí,1.0,No,,No,57.9,No,,Riesgo Medio
+TVH00889,8,Ingeniería Química,21,Femenino,No,Sí,No,,No,8026.0,,75.8,No,Sí,Sin Riesgo
+TVH00890,1,Ingeniería Industrial,17,Femenino,No,No,Sí,1.0,No,,No,56.7,No,,Riesgo Medio
+TVH00891,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,69.0,No,,Sin Riesgo
+TVH00892,6,Ingeniería Civil,20,Femenino,No,No,No,,No,,,69.0,No,,Sin Riesgo
+TVH00893,4,Ingeniería Civil,18,Masculino,No,Sí,No,,No,1955.0,,83.8,Sí,Sí,Sin Riesgo
+TVH00894,4,Ingeniería en Sistemas,18,Masculino,No,Sí,No,,No,4080.0,,83.3,No,Sí,Sin Riesgo
+TVH00895,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,86.2,No,,Sin Riesgo
+TVH00896,3,Ingeniería Petrolera,18,Femenino,No,No,Sí,3.0,No,,No,57.0,No,,Riesgo Medio
+TVH00897,9,Ingeniería Química,21,Masculino,No,No,No,,Sí,,,78.6,Sí,,Sin Riesgo
+TVH00898,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,Sí,,,92.7,Sí,,Sin Riesgo
+TVH00899,3,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,No,,No,51.1,No,,Riesgo Medio
+TVH00900,2,Ingeniería Petrolera,17,Femenino,No,No,Sí,2.0,Sí,,No,67.9,Sí,,Riesgo Medio
+TVH00901,6,Ingeniería en Sistemas,19,Masculino,No,Sí,No,,No,4158.0,,77.5,Sí,Sí,Sin Riesgo
+TVH00902,5,Ingeniería Química,20,Masculino,No,Sí,No,,No,5121.0,,91.5,No,No,Sin Riesgo
+TVH00903,2,Ingeniería Industrial,18,Masculino,No,Sí,No,,No,5400.0,,73.5,No,Sí,Sin Riesgo
+TVH00904,1,Ingeniería Industrial,17,Femenino,No,No,No,,No,,,91.1,No,,Sin Riesgo
+TVH00905,4,Ingeniería Civil,19,Masculino,Sí,Sí,Sí,1.0,No,7782.0,Sí,62.5,No,Sí,Riesgo Alto
+TVH00906,3,Ingeniería Civil,19,Masculino,No,No,No,,No,,,87.0,No,,Sin Riesgo
+TVH00907,1,Ingeniería Petrolera,17,Masculino,No,No,Sí,2.0,No,,No,62.9,No,,Riesgo Medio
+TVH00908,5,Ingeniería Civil,20,Femenino,No,No,Sí,1.0,No,,No,57.7,Sí,,Riesgo Medio
+TVH00909,3,Ingeniería en Sistemas,19,Masculino,No,No,No,,Sí,,,82.8,Sí,,Sin Riesgo
+TVH00910,4,Ingeniería en Sistemas,19,Femenino,No,Sí,Sí,2.0,No,1871.0,No,57.2,No,No,Riesgo Medio
+TVH00911,8,Ingeniería en Sistemas,20,Masculino,No,No,No,,Sí,,,85.8,Sí,,Sin Riesgo
+TVH00912,4,Ingeniería Civil,19,Femenino,No,No,No,,Sí,,,86.0,Sí,,Sin Riesgo
+TVH00913,4,Ingeniería Industrial,18,Masculino,No,Sí,Sí,1.0,No,1298.0,No,58.8,Sí,No,Riesgo Medio
+TVH00914,4,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,85.3,No,,Sin Riesgo
+TVH00915,1,Ingeniería Civil,19,Femenino,No,No,No,,No,,,86.2,Sí,,Sin Riesgo
+TVH00916,5,Ingeniería Petrolera,19,Femenino,No,No,Sí,1.0,No,,No,61.6,No,,Riesgo Medio
+TVH00917,7,Ingeniería Petrolera,20,Masculino,No,No,No,,Sí,,,79.2,Sí,,Sin Riesgo
+TVH00918,5,Ingeniería Petrolera,19,Masculino,No,No,No,,No,,,80.8,No,,Sin Riesgo
+TVH00919,2,Ingeniería Petrolera,18,Femenino,No,No,Sí,3.0,No,,No,65.4,No,,Riesgo Medio
+TVH00920,4,Ingeniería en Sistemas,28,Masculino,No,No,No,,No,,,89.1,Sí,,Sin Riesgo
+TVH00921,5,Ingeniería en Sistemas,19,Femenino,No,No,Sí,1.0,No,,Sí,62.2,No,,Riesgo Alto
+TVH00922,3,Ingeniería Química,18,Masculino,No,No,No,,Sí,,,86.5,Sí,,Sin Riesgo
+TVH00923,3,Ingeniería Civil,19,Masculino,No,No,Sí,1.0,No,,No,67.2,No,,Riesgo Medio
+TVH00924,6,Ingeniería Petrolera,20,Femenino,No,Sí,No,,No,5172.0,,87.0,No,No,Sin Riesgo
+TVH00925,7,Ingeniería Petrolera,20,Masculino,No,No,Sí,3.0,Sí,,Sí,58.9,No,,Riesgo Alto
+TVH00926,5,Ingeniería Industrial,19,Femenino,No,Sí,Sí,1.0,No,3463.0,No,64.0,No,No,Riesgo Medio
+TVH00927,5,Ingeniería Industrial,19,Masculino,No,No,No,,No,,,86.1,No,,Sin Riesgo
+TVH00928,6,Ingeniería Petrolera,27,Femenino,No,No,No,,No,,,77.1,No,,Sin Riesgo
+TVH00929,3,Ingeniería en Sistemas,19,Masculino,No,No,Sí,2.0,No,,No,53.7,Sí,,Riesgo Medio
+TVH00930,3,Ingeniería Química,18,Femenino,No,No,No,,No,,,85.9,No,,Sin Riesgo
+TVH00931,1,Ingeniería en Sistemas,17,Masculino,No,Sí,Sí,1.0,No,2237.0,No,57.6,Sí,Sí,Riesgo Medio
+TVH00932,1,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,79.4,No,,Sin Riesgo
+TVH00933,2,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,89.0,No,,Sin Riesgo
+TVH00934,4,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,86.8,No,,Sin Riesgo
+TVH00935,5,Ingeniería Química,20,Masculino,No,Sí,Sí,1.0,No,1610.0,Sí,76.3,No,Sí,Riesgo Alto
+TVH00936,3,Ingeniería Petrolera,19,Masculino,No,Sí,No,,No,7941.0,,76.6,No,Sí,Sin Riesgo
+TVH00937,7,Ingeniería Industrial,22,Femenino,No,No,No,,No,,,80.0,No,,Sin Riesgo
+TVH00938,6,Ingeniería Civil,19,Masculino,No,No,No,,No,,,92.4,No,,Sin Riesgo
+TVH00939,2,Ingeniería Petrolera,19,Masculino,No,No,No,,No,,,85.1,No,,Sin Riesgo
+TVH00940,1,Ingeniería Industrial,17,Masculino,No,No,No,,No,,,77.2,No,,Sin Riesgo
+TVH00941,4,Ingeniería Química,18,Femenino,No,No,No,,No,,,84.3,No,,Sin Riesgo
+TVH00942,5,Ingeniería en Sistemas,20,Masculino,Sí,Sí,Sí,2.0,No,15894.0,Sí,52.3,No,Sí,Riesgo Alto
+TVH00943,6,Ingeniería Petrolera,20,Masculino,No,No,No,,Sí,,,85.5,Sí,,Sin Riesgo
+TVH00944,8,Ingeniería Civil,20,Femenino,No,No,No,,No,,,69.1,No,,Sin Riesgo
+TVH00945,4,Ingeniería Civil,19,Femenino,No,No,Sí,1.0,No,,No,60.0,Sí,,Riesgo Medio
+TVH00946,6,Ingeniería Industrial,20,Masculino,No,No,Sí,3.0,No,,Sí,78.0,No,,Riesgo Alto
+TVH00947,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,70.9,No,,Sin Riesgo
+TVH00948,4,Ingeniería Química,19,Femenino,No,No,No,,Sí,,,77.9,Sí,,Sin Riesgo
+TVH00949,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,Sí,,,82.9,Sí,,Sin Riesgo
+TVH00950,2,Ingeniería Civil,17,Masculino,No,No,No,,Sí,,,79.8,Sí,,Sin Riesgo
+TVH00951,3,Ingeniería Química,20,Femenino,Sí,Sí,No,,No,4200.0,,86.9,No,No,Sin Riesgo
+TVH00952,6,Ingeniería Química,19,Masculino,No,Sí,No,,No,2537.0,,93.3,No,No,Sin Riesgo
+TVH00953,3,Ingeniería Civil,18,Femenino,No,No,No,,No,,,83.4,Sí,,Sin Riesgo
+TVH00954,1,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,78.6,No,,Sin Riesgo
+TVH00955,5,Ingeniería Química,21,Femenino,No,Sí,No,,No,4978.0,,78.2,No,Sí,Sin Riesgo
+TVH00956,5,Ingeniería Petrolera,19,Femenino,Sí,Sí,No,,Sí,4306.0,,69.0,Sí,Sí,Sin Riesgo
+TVH00957,1,Ingeniería en Sistemas,17,Masculino,No,No,Sí,3.0,Sí,,No,65.9,Sí,,Riesgo Medio
+TVH00958,6,Ingeniería Industrial,19,Femenino,No,No,No,,Sí,,,80.7,Sí,,Sin Riesgo
+TVH00959,5,Ingeniería Petrolera,19,Masculino,No,No,No,,No,,,87.9,No,,Sin Riesgo
+TVH00960,8,Ingeniería Química,20,Masculino,No,No,No,,No,,,78.3,No,,Sin Riesgo
+TVH00961,2,Ingeniería Civil,17,Masculino,No,No,No,,Sí,,,82.3,Sí,,Sin Riesgo
+TVH00962,4,Ingeniería Química,19,Masculino,No,Sí,No,,No,1548.0,,85.3,No,Sí,Sin Riesgo
+TVH00963,2,Ingeniería Civil,17,Femenino,No,No,Sí,1.0,No,,No,61.6,Sí,,Riesgo Medio
+TVH00964,1,Ingeniería Petrolera,18,Masculino,No,No,No,,No,,,83.0,No,,Sin Riesgo
+TVH00965,6,Ingeniería Industrial,20,Femenino,Sí,No,Sí,2.0,No,,Sí,57.9,No,,Riesgo Alto
+TVH00966,3,Ingeniería Civil,20,Masculino,No,No,Sí,1.0,Sí,,Sí,65.6,No,,Riesgo Alto
+TVH00967,3,Ingeniería en Sistemas,19,Femenino,No,No,No,,Sí,,,77.8,Sí,,Sin Riesgo
+TVH00968,4,Ingeniería Industrial,18,Femenino,Sí,Sí,Sí,1.0,No,1823.0,No,63.4,No,No,Riesgo Medio
+TVH00969,1,Ingeniería Química,17,Masculino,No,No,No,,Sí,,,82.3,Sí,,Sin Riesgo
+TVH00970,1,Ingeniería Química,18,Femenino,No,No,Sí,3.0,No,,Sí,66.0,No,,Riesgo Alto
+TVH00971,7,Ingeniería Petrolera,20,Masculino,No,No,Sí,1.0,No,,Sí,59.3,No,,Riesgo Alto
+TVH00972,1,Ingeniería Civil,17,Masculino,No,No,Sí,1.0,No,,No,65.8,No,,Riesgo Medio
+TVH00973,5,Ingeniería Civil,19,Masculino,Sí,Sí,No,,No,5572.0,,69.0,Sí,Sí,Sin Riesgo
+TVH00974,4,Ingeniería Civil,18,Masculino,No,No,No,,No,,,77.6,No,,Sin Riesgo
+TVH00975,3,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,Sí,,No,61.6,Sí,,Riesgo Medio
+TVH00976,5,Ingeniería Petrolera,20,Masculino,No,No,No,,Sí,,,89.7,Sí,,Sin Riesgo
+TVH00977,8,Ingeniería Petrolera,20,Femenino,No,No,No,,Sí,,,69.0,No,,Sin Riesgo
+TVH00978,6,Ingeniería Civil,20,Masculino,No,Sí,Sí,2.0,No,3658.0,No,62.2,No,No,Riesgo Medio
+TVH00979,3,Ingeniería Civil,18,Femenino,Sí,No,Sí,1.0,No,,No,71.2,No,,Riesgo Medio
+TVH00980,7,Ingeniería Química,20,Femenino,No,Sí,Sí,3.0,No,1211.0,Sí,65.2,No,No,Riesgo Alto
+TVH00981,4,Ingeniería Química,18,Masculino,No,No,No,,Sí,,,81.7,No,,Sin Riesgo
+TVH00982,5,Ingeniería Petrolera,20,Masculino,No,No,Sí,1.0,No,,Sí,56.7,Sí,,Riesgo Alto
+TVH00983,3,Ingeniería Petrolera,18,Masculino,No,Sí,No,,No,7881.0,,79.2,No,No,Sin Riesgo
+TVH00984,1,Ingeniería Industrial,17,Masculino,No,Sí,No,,No,2783.0,,75.9,Sí,Sí,Sin Riesgo
+TVH00985,1,Ingeniería Civil,17,Femenino,No,No,No,,No,,,71.1,No,,Sin Riesgo
+TVH00986,9,Ingeniería Química,22,Femenino,No,Sí,No,,No,4059.0,,84.5,Sí,No,Sin Riesgo
+TVH00987,4,Ingeniería Química,18,Femenino,No,No,No,,No,,,79.9,No,,Sin Riesgo
+TVH00988,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,84.5,No,,Sin Riesgo
+TVH00989,2,Ingeniería Petrolera,17,Femenino,No,No,Sí,1.0,No,,No,57.8,No,,Riesgo Medio
+TVH00990,5,Ingeniería Química,19,Masculino,No,Sí,Sí,2.0,Sí,6147.0,No,68.6,Sí,No,Riesgo Medio
+TVH00991,6,Ingeniería Petrolera,20,Femenino,No,Sí,Sí,1.0,No,4930.0,Sí,68.8,Sí,No,Riesgo Alto
+TVH00992,6,Ingeniería Química,20,Femenino,No,Sí,No,,Sí,1289.0,,81.5,Sí,No,Sin Riesgo
+TVH00993,4,Ingeniería Química,18,Femenino,No,Sí,No,,Sí,2069.0,,75.8,Sí,Sí,Sin Riesgo
+TVH00994,5,Ingeniería Química,19,Masculino,No,No,No,,No,,,81.2,No,,Sin Riesgo
+TVH00995,10,Ingeniería Química,21,Masculino,No,Sí,No,,Sí,3527.0,,77.9,Sí,Sí,Sin Riesgo
+TVH00996,6,Ingeniería Industrial,19,Femenino,No,No,Sí,2.0,No,,No,56.1,No,,Riesgo Medio
+TVH00997,4,Ingeniería en Sistemas,18,Masculino,No,No,Sí,1.0,No,,No,63.5,No,,Riesgo Medio
+TVH00998,3,Ingeniería en Sistemas,19,Masculino,No,No,Sí,2.0,No,,No,59.5,No,,Riesgo Medio
+TVH00999,8,Ingeniería Química,21,Femenino,No,No,No,,No,,,88.3,No,,Sin Riesgo
+TVH01000,2,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,83.1,No,,Sin Riesgo
+TVH01001,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,79.1,Sí,,Sin Riesgo
+TVH01002,2,Ingeniería Química,17,Masculino,No,No,Sí,1.0,Sí,,No,70.4,Sí,,Riesgo Medio
+TVH01003,5,Ingeniería en Sistemas,19,Masculino,No,Sí,No,,No,2303.0,,76.6,Sí,No,Sin Riesgo
+TVH01004,1,Ingeniería Química,18,Masculino,No,No,No,,Sí,,,77.8,Sí,,Sin Riesgo
+TVH01005,2,Ingeniería en Sistemas,18,Femenino,No,Sí,No,,No,2269.0,,71.0,No,No,Sin Riesgo
+TVH01006,6,Ingeniería Química,19,Masculino,Sí,Sí,Sí,2.0,No,1990.0,No,55.4,No,Sí,Riesgo Medio
+TVH01007,3,Ingeniería Industrial,19,Femenino,No,No,Sí,2.0,No,,No,61.4,No,,Riesgo Medio
+TVH01008,5,Ingeniería Petrolera,20,Masculino,No,No,Sí,1.0,Sí,,Sí,59.1,Sí,,Riesgo Alto
+TVH01009,1,Ingeniería Petrolera,17,Femenino,No,No,No,,No,,,81.7,No,,Sin Riesgo
+TVH01010,1,Ingeniería Civil,17,Masculino,No,No,Sí,3.0,No,,No,64.4,Sí,,Riesgo Medio
+TVH01011,1,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,88.3,No,,Sin Riesgo
+TVH01012,6,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,75.5,No,,Sin Riesgo
+TVH01013,3,Ingeniería en Sistemas,18,Masculino,No,No,No,,Sí,,,76.2,Sí,,Sin Riesgo
+TVH01014,2,Ingeniería Química,18,Masculino,No,No,No,,Sí,,,74.9,No,,Sin Riesgo
+TVH01015,5,Ingeniería en Sistemas,21,Masculino,No,No,No,,No,,,81.2,No,,Sin Riesgo
+TVH01016,1,Ingeniería Industrial,18,Femenino,No,Sí,No,,No,4344.0,,88.4,No,Sí,Sin Riesgo
+TVH01017,2,Ingeniería Industrial,17,Femenino,No,Sí,Sí,1.0,No,3634.0,Sí,60.5,Sí,No,Riesgo Alto
+TVH01018,8,Ingeniería Química,20,Masculino,No,Sí,No,,No,5673.0,,82.2,No,No,Sin Riesgo
+TVH01019,2,Ingeniería Química,17,Femenino,No,No,No,,No,,,86.6,No,,Sin Riesgo
+TVH01020,3,Ingeniería Civil,18,Masculino,No,No,No,,No,,,85.6,No,,Sin Riesgo
+TVH01021,1,Ingeniería Industrial,17,Masculino,No,No,Sí,1.0,No,,No,73.8,Sí,,Riesgo Medio
+TVH01022,8,Ingeniería Química,21,Femenino,No,No,No,,No,,,79.1,No,,Sin Riesgo
+TVH01023,2,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,75.5,Sí,,Sin Riesgo
+TVH01024,4,Ingeniería Petrolera,18,Masculino,No,No,Sí,1.0,No,,No,69.3,Sí,,Riesgo Medio
+TVH01025,1,Ingeniería en Sistemas,17,Femenino,Sí,No,Sí,2.0,No,,No,64.6,No,,Riesgo Medio
+TVH01026,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,88.4,No,,Sin Riesgo
+TVH01027,5,Ingeniería Industrial,19,Masculino,Sí,Sí,Sí,1.0,Sí,8343.0,No,66.1,Sí,No,Riesgo Medio
+TVH01028,3,Ingeniería Industrial,18,Femenino,No,No,Sí,1.0,No,,No,63.1,Sí,,Riesgo Medio
+TVH01029,2,Ingeniería Civil,18,Femenino,No,No,Sí,1.0,No,,No,67.0,No,,Riesgo Medio
+TVH01030,2,Ingeniería Industrial,18,Masculino,No,No,No,,Sí,,,79.6,Sí,,Sin Riesgo
+TVH01031,3,Ingeniería Petrolera,19,Femenino,No,No,No,,No,,,75.4,Sí,,Sin Riesgo
+TVH01032,9,Ingeniería Petrolera,23,Masculino,No,No,Sí,1.0,No,,No,70.1,No,,Riesgo Medio
+TVH01033,5,Ingeniería Química,19,Masculino,No,Sí,No,,Sí,2620.0,,70.9,Sí,Sí,Sin Riesgo
+TVH01034,2,Ingeniería Química,18,Masculino,No,No,No,,Sí,,,83.7,Sí,,Sin Riesgo
+TVH01035,1,Ingeniería Petrolera,17,Femenino,No,No,No,,Sí,,,82.2,Sí,,Sin Riesgo
+TVH01036,6,Ingeniería Industrial,19,Masculino,No,Sí,Sí,2.0,No,1888.0,Sí,62.6,Sí,Sí,Riesgo Alto
+TVH01037,8,Ingeniería Química,20,Femenino,No,No,No,,No,,,81.8,No,,Sin Riesgo
+TVH01038,5,Ingeniería en Sistemas,19,Femenino,No,No,No,,No,,,81.0,No,,Sin Riesgo
+TVH01039,6,Ingeniería Industrial,19,Masculino,Sí,No,Sí,1.0,No,,Sí,68.0,No,,Riesgo Alto
+TVH01040,1,Ingeniería Civil,18,Femenino,Sí,No,Sí,1.0,Sí,,Sí,46.0,Sí,,Riesgo Alto
+TVH01041,1,Ingeniería Química,18,Femenino,No,No,No,,No,,,74.4,No,,Sin Riesgo
+TVH01042,8,Ingeniería Industrial,21,Masculino,No,Sí,Sí,2.0,No,3359.0,Sí,57.1,Sí,No,Riesgo Alto
+TVH01043,5,Ingeniería Industrial,19,Masculino,No,No,No,,Sí,,,86.7,Sí,,Sin Riesgo
+TVH01044,3,Ingeniería en Sistemas,20,Masculino,Sí,No,Sí,1.0,No,,No,67.4,No,,Riesgo Medio
+TVH01045,3,Ingeniería en Sistemas,19,Femenino,No,No,Sí,1.0,No,,No,52.2,Sí,,Riesgo Medio
+TVH01046,2,Ingeniería en Sistemas,17,Femenino,No,No,Sí,1.0,No,,No,47.5,Sí,,Riesgo Medio
+TVH01047,2,Ingeniería Petrolera,17,Masculino,No,No,No,,No,,,97.4,No,,Sin Riesgo
+TVH01048,3,Ingeniería en Sistemas,18,Femenino,No,No,No,,Sí,,,93.1,No,,Sin Riesgo
+TVH01049,4,Ingeniería Civil,18,Masculino,No,No,No,,No,,,83.4,No,,Sin Riesgo
+TVH01050,3,Ingeniería Civil,18,Femenino,No,No,No,,No,,,86.3,No,,Sin Riesgo
+TVH01051,6,Ingeniería Civil,19,Masculino,No,No,No,,Sí,,,75.4,Sí,,Sin Riesgo
+TVH01052,4,Ingeniería Civil,19,Masculino,No,No,Sí,1.0,Sí,,No,62.4,Sí,,Riesgo Medio
+TVH01053,3,Ingeniería Química,19,Femenino,No,No,No,,No,,,82.0,No,,Sin Riesgo
+TVH01054,5,Ingeniería Química,20,Masculino,No,No,Sí,1.0,Sí,,No,51.6,Sí,,Riesgo Medio
+TVH01055,2,Ingeniería Química,18,Femenino,No,No,No,,Sí,,,86.3,Sí,,Sin Riesgo
+TVH01056,1,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,76.1,No,,Sin Riesgo
+TVH01057,8,Ingeniería en Sistemas,20,Femenino,No,No,Sí,1.0,No,,No,63.3,No,,Riesgo Medio
+TVH01058,6,Ingeniería Civil,20,Masculino,No,Sí,Sí,1.0,No,7999.0,No,73.2,No,Sí,Riesgo Medio
+TVH01059,3,Ingeniería Civil,19,Femenino,Sí,No,No,,No,,,76.0,No,,Sin Riesgo
+TVH01060,3,Ingeniería en Sistemas,18,Masculino,No,Sí,No,,No,3440.0,,82.8,No,Sí,Sin Riesgo
+TVH01061,1,Ingeniería Industrial,26,Masculino,No,No,No,,Sí,,,83.4,Sí,,Sin Riesgo
+TVH01062,4,Ingeniería en Sistemas,18,Masculino,No,Sí,No,,No,3971.0,,78.4,No,No,Sin Riesgo
+TVH01063,7,Ingeniería Industrial,20,Femenino,No,Sí,No,,Sí,5993.0,,71.6,No,Sí,Sin Riesgo
+TVH01064,2,Ingeniería Industrial,17,Femenino,No,No,No,,No,,,80.0,No,,Sin Riesgo
+TVH01065,1,Ingeniería Civil,17,Femenino,No,No,No,,No,,,80.3,No,,Sin Riesgo
+TVH01066,6,Ingeniería Industrial,20,Masculino,Sí,No,No,,No,,,78.2,Sí,,Sin Riesgo
+TVH01067,9,Ingeniería Civil,22,Masculino,No,Sí,No,,No,4202.0,,84.7,Sí,Sí,Sin Riesgo
+TVH01068,1,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,80.4,No,,Sin Riesgo
+TVH01069,2,Ingeniería Civil,18,Masculino,No,No,No,,No,,,96.3,No,,Sin Riesgo
+TVH01070,1,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,86.2,No,,Sin Riesgo
+TVH01071,2,Ingeniería en Sistemas,17,Femenino,No,No,No,,No,,,87.0,No,,Sin Riesgo
+TVH01072,5,Ingeniería Petrolera,19,Masculino,No,No,No,,No,,,83.0,Sí,,Sin Riesgo
+TVH01073,1,Ingeniería en Sistemas,18,Masculino,No,No,Sí,3.0,Sí,,Sí,62.1,Sí,,Riesgo Alto
+TVH01074,5,Ingeniería en Sistemas,26,Masculino,No,No,Sí,1.0,No,,No,78.0,Sí,,Riesgo Medio
+TVH01075,4,Ingeniería Industrial,18,Masculino,No,No,No,,No,,,75.4,No,,Sin Riesgo
+TVH01076,2,Ingeniería Civil,17,Masculino,No,No,Sí,2.0,No,,No,56.0,No,,Riesgo Medio
+TVH01077,2,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,87.0,Sí,,Sin Riesgo
+TVH01078,1,Ingeniería Química,17,Femenino,No,No,No,,No,,,84.8,No,,Sin Riesgo
+TVH01079,4,Ingeniería Petrolera,19,Masculino,No,Sí,No,,No,3991.0,,78.5,No,Sí,Sin Riesgo
+TVH01080,1,Ingeniería Petrolera,17,Femenino,No,No,No,,No,,,87.5,No,,Sin Riesgo
+TVH01081,6,Ingeniería en Sistemas,20,Masculino,No,No,No,,No,,,82.7,No,,Sin Riesgo
+TVH01082,4,Ingeniería en Sistemas,18,Femenino,No,No,Sí,1.0,No,,No,70.8,Sí,,Riesgo Medio
+TVH01083,4,Ingeniería Industrial,20,Masculino,No,No,No,,No,,,81.5,No,,Sin Riesgo
+TVH01084,7,Ingeniería Química,21,Femenino,No,No,Sí,2.0,Sí,,No,64.0,No,,Riesgo Medio
+TVH01085,6,Ingeniería Petrolera,20,Femenino,No,Sí,Sí,1.0,Sí,4693.0,Sí,56.5,Sí,No,Riesgo Alto
+TVH01086,8,Ingeniería en Sistemas,21,Femenino,No,No,No,,No,,,85.5,No,,Sin Riesgo
+TVH01087,5,Ingeniería Industrial,19,Femenino,No,No,Sí,1.0,No,,No,63.2,No,,Riesgo Medio
+TVH01088,2,Ingeniería Química,17,Masculino,No,No,Sí,1.0,Sí,,No,70.4,Sí,,Riesgo Medio
+TVH01089,4,Ingeniería Industrial,18,Femenino,No,No,No,,No,,,86.5,No,,Sin Riesgo
+TVH01090,5,Ingeniería en Sistemas,19,Masculino,Sí,Sí,Sí,1.0,No,2416.0,No,54.6,Sí,No,Riesgo Medio
+TVH01091,4,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,79.8,No,,Sin Riesgo
+TVH01092,4,Ingeniería Civil,19,Masculino,No,Sí,Sí,1.0,Sí,2506.0,Sí,69.2,Sí,No,Riesgo Alto
+TVH01093,2,Ingeniería Química,18,Masculino,No,No,No,,No,,,78.7,No,,Sin Riesgo
+TVH01094,4,Ingeniería Civil,19,Femenino,No,No,No,,No,,,86.8,No,,Sin Riesgo
+TVH01095,3,Ingeniería en Sistemas,18,Femenino,No,Sí,Sí,1.0,No,1509.0,No,61.2,No,Sí,Riesgo Medio
+TVH01096,3,Ingeniería Industrial,19,Femenino,No,No,No,,Sí,,,83.9,Sí,,Sin Riesgo
+TVH01097,3,Ingeniería en Sistemas,18,Femenino,No,No,No,,Sí,,,86.2,Sí,,Sin Riesgo
+TVH01098,5,Ingeniería Química,21,Masculino,No,No,No,,No,,,87.6,No,,Sin Riesgo
+TVH01099,7,Ingeniería Industrial,20,Femenino,No,Sí,No,,No,1016.0,,82.2,No,Sí,Sin Riesgo
+TVH01100,2,Ingeniería Química,17,Masculino,No,No,No,,No,,,78.0,No,,Sin Riesgo
+TVH01101,1,Ingeniería Petrolera,18,Femenino,No,No,Sí,3.0,Sí,,No,58.7,Sí,,Riesgo Medio
+TVH01102,5,Ingeniería Química,19,Femenino,No,Sí,No,,Sí,9391.0,,80.2,No,No,Sin Riesgo
+TVH01103,4,Ingeniería Petrolera,19,Masculino,No,No,Sí,1.0,No,,No,67.7,No,,Riesgo Medio
+TVH01104,1,Ingeniería en Sistemas,18,Femenino,No,No,No,,No,,,89.9,No,,Sin Riesgo
+TVH01105,2,Ingeniería Petrolera,27,Masculino,No,Sí,No,,No,2730.0,,81.5,Sí,Sí,Sin Riesgo
+TVH01106,1,Ingeniería Química,17,Femenino,No,Sí,No,,No,2781.0,,83.5,No,No,Sin Riesgo
+TVH01107,8,Ingeniería Química,20,Masculino,No,Sí,No,,Sí,5672.0,,77.3,Sí,Sí,Sin Riesgo
+TVH01108,1,Ingeniería Petrolera,18,Femenino,No,No,No,,No,,,89.7,Sí,,Sin Riesgo
+TVH01109,4,Ingeniería Civil,20,Masculino,Sí,Sí,Sí,1.0,No,10518.0,No,70.2,Sí,Sí,Riesgo Medio
+TVH01110,4,Ingeniería Industrial,18,Masculino,No,No,Sí,2.0,No,,No,65.9,No,,Riesgo Medio
+TVH01111,7,Ingeniería Industrial,21,Femenino,No,No,No,,Sí,,,75.2,Sí,,Sin Riesgo
+TVH01112,2,Ingeniería en Sistemas,17,Masculino,No,No,No,,No,,,84.5,No,,Sin Riesgo
+TVH01113,5,Ingeniería en Sistemas,19,Masculino,No,No,No,,No,,,85.2,No,,Sin Riesgo
+TVH01114,3,Ingeniería Civil,18,Masculino,No,No,No,,No,,,90.1,Sí,,Sin Riesgo
+TVH01115,8,Ingeniería Civil,22,Masculino,No,No,No,,Sí,,,83.3,Sí,,Sin Riesgo
+TVH01116,7,Ingeniería Petrolera,20,Masculino,Sí,Sí,Sí,2.0,No,1130.0,Sí,59.5,No,Sí,Riesgo Alto
+TVH01117,2,Ingeniería Civil,17,Masculino,No,No,Sí,1.0,No,,Sí,48.5,Sí,,Riesgo Alto
+TVH01118,2,Ingeniería Industrial,18,Femenino,No,Sí,No,,No,2713.0,,83.5,Sí,No,Sin Riesgo
+TVH01119,1,Ingeniería Civil,17,Masculino,No,No,No,,No,,,82.8,No,,Sin Riesgo
+TVH01120,3,Ingeniería Industrial,19,Masculino,No,No,No,,No,,,82.5,No,,Sin Riesgo
+TVH01121,6,Ingeniería en Sistemas,19,Femenino,No,No,No,,Sí,,,83.5,No,,Sin Riesgo
+TVH01122,2,Ingeniería Industrial,17,Masculino,No,No,Sí,1.0,No,,No,69.7,No,,Riesgo Medio
+TVH01123,4,Ingeniería en Sistemas,18,Masculino,No,No,No,,No,,,87.7,Sí,,Sin Riesgo
+TVH01124,2,Ingeniería Civil,17,Femenino,No,No,No,,No,,,77.2,No,,Sin Riesgo
+TVH01125,3,Ingeniería Civil,19,Femenino,No,Sí,Sí,1.0,Sí,4151.0,No,64.7,Sí,Sí,Riesgo Medio
+TVH01126,7,Ingeniería en Sistemas,20,Masculino,No,No,No,,No,,,86.6,No,,Sin Riesgo
+TVH01127,2,Ingeniería Petrolera,17,Masculino,No,No,No,,No,,,82.5,No,,Sin Riesgo
+TVH01128,3,Ingeniería Petrolera,18,Femenino,No,No,Sí,1.0,Sí,,Sí,59.7,Sí,,Riesgo Alto
+TVH01129,4,Ingeniería Industrial,19,Femenino,No,No,No,,No,,,77.4,No,,Sin Riesgo
+TVH01130,2,Ingeniería Petrolera,17,Masculino,No,Sí,Sí,1.0,No,1998.0,No,63.0,No,Sí,Riesgo Medio
